@@ -1,0 +1,201 @@
+ticket_id,customer_message,expected_intent,expected_action
+ticket_01,hi I ordered a parcel yesterday which was prime and it says it’s out for delivery and I’ve been waiting all day,Order Tracking,Auto-handle
+ticket_02,"We are moving in a circle. I'm searching help because I can't contact Amazon China, but the only help I receive is an advise to contact Amazon China. This is a really ridiculous situation! if all sellers can't receive support from AMAZON China I don't understand how it works. https://t.co/vaMpve4Pzp",Escalation,Escalate to Human
+ticket_03,I need to read the book. Who can wait till you send a replacement?,Replacement,Escalate to Human
+ticket_04,"Dear Sir l have ordered my NOKIA model number 130 DS (Black) mobile with amazon order no 403-9527897-0448309, dated 27.10.2017. I have received the phone on 07.11.2017",Order Tracking or Other,Auto-handle
+ticket_05,Please check the dm for latest updates,Order Tracking,Auto-handle
+ticket_06,PSA Don’t buy an @115821 Alexa BECAUSE THEY DONT EVER WORK!!!!!! 😒😒😒,Replacement or Other,Escalate to Human
+ticket_07,I really like these cards too...its sad that id have to return these but man 3 cards for the price of 6 is not a good trade off.... https://t.co/LLFLuZ9T6a,Refund,Escalate to Human
+ticket_08,So @115830 I pay for prime and 3/5 of my last prime deliveries haven’t arrived on time and one electrical item was left outside?? An explanation would be nice!,Order Tracking,Escalate to Human
+ticket_09,That means u are forcing me to buy something with the amount entered due to your server showing bad request after the transaction,Payment Issue,Escalate to Human
+TICKET_10,"@115821 order placed on 14/10/17 thru prime, nos-405-0867874-1553912,not recieved yet,plz cancel &amp; refund total amount.",Refund or Cancellation,Auto-handle
+TICKET_11,"@115850 one of the worst customer care service you have , from last 2 weeks i am trying to reach out for resolution i am not getting an out put , can you please call me at 9841645754 , one of my product was dispatched on 30th oct and till 7th i have not received it ,",Escalation,Escalate to Human
+TICKET_12,"So disappointed in @115821 customer service, spoke to 5 different reps who all were rude and didn't have a reason about why my package has been late for a week. please help!",Escalation,Escalate to Human
+TICKET_13,"It doesn't show as an order available for packaging feedback, I'll check back later to see if it will let me",Order Tracking or Other,Auto-handle
+TICKET_14,Still nothing posted. What are the odds anyway?,Order Tracking,Escalate to Human
+TICKET_15,@115830 Can't help but feel if I had a few more followers and drummed up a bit more fuss Amazon might have felt more inclined to make it right.,Escalation,Escalate to Human
+TICKET_16,"Desktop web. If you click the Cart button, you can indeed Save For Later. If you Proceed to Checkout, though, no such option. So on me for pressing the wrong button. Still makes no sense to take away an option on that screen, but the option is there if you go to the right place",Other,Auto-handle
+TICKET_17,プライムビデオ最高や。ほぼ有田の奴しか見てないけど,Other,Escalate to Human
+TICKET_18,Dear @117795 @115830 please tell me why I am paying you for your one-day delivery to tell me it'll be delivered on Thursday?,Order Tracking,Escalate to Human
+TICKET_19,And I thought Amazon was to save time and money instead of wasting.,Escalation,Escalate to Human
+TICKET_20,"Okay but you never did answer my question, from where do I activate the free prime membership with echo. I never received any instruction in the package or email.",Account Login,Auto handle
+TICKET_21,Yoooo my free trial for amazon ended and they charged me $54! I’m sick.,Payment Issue,Escalate to Human
+TICKET_22,@116935 I am a Prime member and I am still getting this message. When will you rectify this? Still waiting 72 hours for a resolution. https://t.co/mUpcADYuNd,Escalation,Escalate to Human
+TICKET_23,Nope,Other,Auto-handle
+TICKET_24,https://t.co/PO5oy48e3G,Other ,Auto-handle
+TICKET_25,I swear @115830 wait till you’re busy to deliver your orders!! I’ve been off all week waiting for my many parcels and I’ll bet anything they arrive when I’m back at work tomorrow!!,Order Tracking,Escalate to Human
+TICKET_26,When you order an Amazon parcel and only receive the packaging😕 https://t.co/eps8LpE6pX,Replacement,Escalate to Human
+TICKET_27,@115850 you need 15 days for refund ???,Refund,Escalate to Human
+TICKET_28,あまぞんぷらいむすてゅーでんと無料体験版会員になりました来年？から金払うぞぉ,Other,Escalate to Human
+TICKET_29,@115850 Never thought my speakers gonna work intermittently n u wouldn't replace just coz its 4 days past replacement period,Replacement,Escalate to Human
+TICKET_30,@115821 Hey I was waiting for a package all day today. Now it says it’s gonna be late. Can I pick it up instead of having it delivered tomorrow?,Order Tracking,Auto-handle
+TICKET_31,@115850 can someone from your support team get un touch with me asap.Pl DM for contact number,Encalation,Escalate to Human
+TICKET_32,I haven’t preloaded due to not receiving a code,Other,Auto-handle
+TICKET_33,"@123644 I have returned the item,but still haven't received refund. ordr#402-8581842-4257933 Speed post track# EK706903745IN",Refund,Escalate to Human
+TICKET_34,I've had Amazon Prime for 10 years as of earlier this week. I've spent £700 just so I didn't have to wait for things to be delivered. Honestly worth it. @115830 - here's to 10 more years.,Other,Auto-handle
+TICKET_35,already communicate me. and I did not get any answer .. I need to unlock the account so that my orders are released. Does anyone speak Spanish?,Account Login,Escalate to Human
+TICKET_36,Today my refund request is completed and my order is taken by delivery man but still I'm not getting any response from Amazon,Refund,Escalate to Human
+TICKET_37,@115850 has to be cheaper on amazon..n Bingo.. #amazingamazon https://t.co/DylXpqyNML,Other ,Auto-handle
+TICKET_38,Nov 29th by EOD. I have not received any information about the shipment and was told today it will get shipped today.,Order Tracking,Auto-handle
+TICKET_39,"Bjr, suivi C10036014503. SAV déjà contacté, mais pfff....",Order Tracking,Escalate to Human
+TICKET_40,"I got it today, you've always been on the dot and I understand things can slip up! So I'll let you off! 😅 Hahaha. Thanks for the reply!",Other,Auto-handle
+TICKET_41,@115850 @115850 you hold my account how can I contact...why you hold my account,Account Login,Escalate to Human
+TICKET_42,"Such temptations give you others Nitin Patel does not have such work,😠😠😠😠😠",Other,Escalate to Human
+TICKET_43,"Sorry that doesn't help. I contacted u on @123765 for it's supposed to be a more interactive and effective forum. What's your customer care email id and phone no, in case u don't want to solve my problem here?",Escalation,Escalate to Human
+TICKET_44,Sorry to say but contact seller support team not solve the problem last 13 day than contact u.... And u say contact seller team verry Verry poor service support by amazon....,Escalation,Escalate to Human
+TICKET_45,Thanks @115830 for delivering my 6 year old daughters Christmas present this afternoon with no additional packaging. She found it on the doorstep and could clearly see what it was. #itsallaboutthemagic #gone https://t.co/R07lqSjl53,Escalation,Escalate to Human
+TICKET_46,my parcel was left at the front door in full view of the road - which is not secured by a wall or gate - I emailed cust service - no reply,Order Tracking,Escalate to Human
+TICKET_47,@115850 fake sale... Showing this deal is in ur cart bt when clicking on checkout it showing unavailable.. https://t.co/ga32jGAJSc,Other,Auto-handle
+TICKET_48,@119625 When will Home Alone and Home Alone 2 will be released?,Other,Auto-handle
+TICKET_49,this is sixth day without resolution,Escalation,Escalate to Human
+TICKET_50,I sent details. Got it?,Order Tracking,Auto-handle
+TICKET_51,@115830 your having a laugh. Look at this over packaging! https://t.co/BV9u7VyQgY,Escalation,Escalate to Human
+TICKET_52,This is the 3rd time Amazon has delayed my shipment or not delivered it on time. 😡,Order Tracking,Escalate to Human
+TICKET_53,@115850 pickup for Pickup Tracking ID: 710393149926 didn't happen today.Please check.,Order Tracking,Auto-handle
+TICKET_54,@115850 Why you loot consumers by charging more for a product than mentioned MRP?,Payment Issue,Escalate to Human
+TICKET_55,"Why is @116090 such a mess? In 7 years of living in the US, I had to call @115821 only a handful of times to resolve issues. 3 months of living in Canada and I've already called @116090 at least a dozen times.",Escalation,Escalate to Human
+TICKET_56,"@116316 was müssen wir machen, damit wir nicht unaufgefordert Plastikmüll in das Haus geschickt bekommen? Müllvermeidung,vor allem Plastik,sollte Ihnen wichtig sein. Zweimalig traf sie ein. Für mich und extra für meine Ehefrau. #sinnlosekarte https://t.co/Z5mNmnA8ya",Other,Escalate to Human
+TICKET_57,"Hola. Me han bloqueado la cuenta de @120533 y me pide enviar fax. No tengo posibilidad de mandar Fax, Me ayudan a desbloquear? Hice dos compras y veo el consumo en visa, recibiré mis compras?",Account Login,Escalate to Human
+TICKET_58,I cancelled the subscription before the trial ended but it didn't work and I was charged - i haven't used any of the Prime services,payment Issue,Escalate to Human
+TICKET_59,Dont have access to them,Payment Issue,Escalate to Human
+TICKET_60,"Hi, this just sent me to the American Amazon. Where do you find the contact details?",Other,Auto-handle
+TICKET_61,@115850 why not able to add gift voucher received from Yippee,Payment Issue,Auto-handle
+TICKET_62,"I'm really thankful for Edwin over at @115821 for helping me out, but I'm still really upset I've had to deal with the same issue twice in one week. Amazon and I used to have such a great relationship.",Escalation,Escalate to Human
+TICKET_63,"Se non c'è fretta nel farglielo ritrovare giochiamo ad acqua, fuoco e fuochino 😂 - MG",Other,Escalate to Human
+TICKET_64,@115850 My order #408-2638784-9394763 was for 2 pcs of Pop sockets. Recvd only 1 pc Pls refund or send me d pending item #CustomerService,Replacement,Escalate to Human
+TICKET_65,It’s https://t.co/dED0SzPfH4,Order Tracking,Auto-handle
+TICKET_66,"@115830 Yes they were split but both were for next day delivery, both said due by 8pm yesterday one arrived the other hasnt n tracking now says 8nov",Order Tracking,Auto-handle
+TICKET_67,なんかAmazonから有料サイト使用の際の未納分があります、本日中に連絡しないと法的処置に移行しますってショートメール来たんだけどさ。カード登録してんだからそっから落とせよ。つかメールアドレス登録してんだからそっちに送れよって思うよね。みんな気をつけてね。,Other,Escalate to Human
+TICKET_68,@230099 @115821 @UPSHelp I just live-chatted and there is no resolution. They'll let me know new date when they get warehouse unloaded. Oh well. You're right. It is what it is.,Order Tracking,Escalate to Human
+TICKET_69,"Hey @115821, I’ll be canceling my Prime subscription now that #amzl_us has delivered my 1 day order late for the fourth time in a row.",Escalation,Escalate to Human
+TICKET_70,@115821 @115850 I have sent 100s of reply but none respond or answer me as what violation I did.. can you answer me as what was my violation?,Account Login,Escalate to Human
+TICKET_71,It's been approved,Other,Auto-handle
+TICKET_72,なるほど、教えて下さっでありがとうございます。,acknowledge,Escalate to Human
+TICKET_73,"@115830 hi, is there a contact number for World of Books Ltd? Parcel still not jere &amp; needed for tomorrow!! Help.",Order Tracking,Escalate to Human
+TICKET_74,FYI order is 702-1921765-1055463 on @116090 . I have another order with a $0.03 list price drop and I need to know soon what will happen to it.,Payment Issue,Auto-handle
+TICKET_75,Tfw don’t dispatch your parcel and then refuse to cancel it?? Yeah nice one cheers I DONT NEED IT ANYMORE,Escalation,Escalate to Human
+TICKET_76,The new films &amp; rentals options are blank.,Other,Auto-handle
+TICKET_77,That’s not the problem just want to down load to the echo app albums but I can’t,Other,Auto-handle
+TICKET_78,Sí. Compré en preventa ese libro y salió a la venta el 31 de octubre. Aún no me lo envían.,Order Tracking,Escalate to Human
+TICKET_79,"Je n’y parviens pas à chaque test d’envoi de fax, on me dit erreur communication. Je n’ai pas confiance en l’envoi par voie postale, encore moins à une adresse anglaise. Belle manière d’accueillir un nouveau client en ce Black friday..",Account Login,Escalate to Human
+TICKET_80,I tried the chat team earlier. They said someone would email me. So will wait and see what they say I guess. Is there a way to cast to the Echo from the App?,Other,Auto-handle
+TICKET_81,What a solution to the problem. U need 3 more days to ship my package frm mumbai warehouse to thane. Even snails are faster than ur delivery,Order Tracking,Escalate to Human
+TICKET_82,"@115850 while other players in the market update wallets in mins, .@115850 takes 24 hrs to update their wallet - Pay balance!",Payment Issue,Auto-handle
+TICKET_83,I hv nt receivd any mail on my registered email. Further would request u to counter me here instead of running away. Put the facts here. I AM CONFIDENT mine is not isolated incidence. Amazon has duped many with fake products. It clear from its behaviour. I appeal to avoid Amazon,Escalation,Escalate to Human
+TICKET_84,"@118919 Hi Team, I am planning to buy Echo for my family in India. How long I have to wait for the invitation letter. Plus I already have prime in USA, should I get one in India also ?",Other,Auto-handle
+TICKET_85,返信ありがとうございます。 今までなら注文したその日にメールが届いたんですが、1日経ってもメールが届きません。 メッセージセンターも確認しましたがまだ届いてないようです。 お届け予定日を超えてしまわないか心配です。,Order Tracking,Escalate to Human
+TICKET_86,@115850 What is the customer care number of Amazon India?,Escalation,Escalate to Human
+TICKET_87,@115850 I did not get my product that I order plz help,Order Tracking,Escalate to Human
+TICKET_88,"@115850 I bought one plus 3T phone on 21st sep 2017(ORDER # 408-8137211-1133927). product was defective. On placing return, amazon1/2",Replacement,Escalate to Human
+TICKET_89,"I have used this link given by you thrice already, now I need an immediate response.",Escalation,Escalate to Human
+TICKET_90,"@115830 Hello. i ordered this Pop Vinyl on Saturday, costing £30.21, and just checked my orders on my profile and is not there... https://t.co/FOcAyfbhqG",Order Tracking,Escalate to Human
+TICKET_91,And at time of shopping there was no any condition about exclusion of this product.,Escalation,Escalate to Human
+TICKET_92,"It was Amazon delivery. First time this year, constant last year",Order Tracking,Escalate to Human
+TICKET_93,"It was both, there were multiple products in one shipment.",Order Tracking,Auto-handle
+TICKET_94,どうも。Chromeのおそらく最新版（61.0.3163.100）で、OSはWindows10 64bit（最新）です。Chromeでも他のサイトは全く重くなく、Amazonだけがページの更新や切り替わりが異常に遅いです。たまにエラーにも。IE、スマホアプリでは問題ありません。,Other,Escalate to Human
+TICKET_95,"Sería un #FelizFinde si llegara hoy mi pedido de @116928, pero @135806 me manda el pedido https://t.co/OHGOhJXS7l",Order Tracking,Escalate to Human
+TICKET_96,@115830 your delivery drivers didn't feel like delivering my prime parcel today. No knock on the door or anything. Lazy.,Order Tracking,Escalate to Human
+TICKET_97,"So ups holds my package hostage for days, and now Amazon is holding my refund hostage until UPS delivers the package back to Amazon. What is this???",Refund,Escalate to Human
+TICKET_98,"One more thing, i ordered this for a Christmas gift along with multiple other items. The others are set to arrive together but this one is said to be arriving as (1 item) why is the order total $44.24? I’ve requested a cancellation because of this. I’m just confused. https://t.co/cXiyYqfR6E",Escalation,Escalate to Human
+TICKET_99,Is that even possible on a Kindle HD? It's basically a system app on your devices. (ps i would prefer a less restricted android skin),Other,Auto-handle
+TICKET_100,https://t.co/eIkGQpcoL3,Other,Auto-handle
+TICKET_101,"Bonsoir, veuillez m’excuser l'erreur venez de moi 😅 vraiment toutes mes excuses pour le dérangement très bonne soirée à vous !",Other,Escalate to Human
+TICKET_102,"my Alexa is flashing green and I asked her why said it’s an incoming call or to do with a drop in, can u help it won’t stop?",Other,Auto-handle
+TICKET_103,order # 202-6502891-3578711 apparently arriving today but hasn’t been despatched yet? Can you confirm arrival date of today?,Order Tracking,Auto-handle
+TICKET_104,They were just rude and unhelpful as always. I found a solution on my own.,Escalation,Escalate to Human
+TICKET_105,Nothing makes me madder than #Amazon's lying bastards they call couriers. Absolutely useless twats. Been sat in house waiting for my parcel. They have NOT attempted delivery. #rant https://t.co/pyB7cxHDs1,Order Tracking,Escalate to Human
+TICKET_106,ordered for dhanteras.Thought multiple galti nahi karenge.Will cancel n file suit.1aur kiya tha wo bhi 2 din se outfordelivery.Cheaters,Escalation,Escalate to Human
+TICKET_107,@119356 Do aybdy frm AMAZON Luk after Process/Services/Customer satisfaction see snaps.I have not got product @115851 @115850 @115821 https://t.co/ZFbYoBw21E,Order Tracking,Escalate to Human
+TICKET_108,Tomorrow but it’s the time I have the problem with Last week my preorder was dispatched on the Wednesday for the Friday release,Order Tracking,Auto-handle
+TICKET_109,So after losing my headphones and ordering new ones on @115821 they don’t even send me everything....whys it so difficult to listen to music,Replacement,Escalate to Human
+TICKET_110,I have filled I want all updates in an hour...don't say it not possible @115851 @115850 u are huge and u all can do it fast,Escalation,Escalate to Human
+TICKET_111,後から送られてくる感じですか？,Order Tracking,Escalate to Human
+TICKET_112,Im so crumb what do i even do about it? @117795 my package was stolen after it was delivered,Order Tracking,Auto-handle
+TICKET_113,@115850 Could you just check the refund status of ORDER # 408-2967982-6537126.,Refund,Escalate to Human
+TICKET_114,Hi @115850 found this on your product feedback. Do you encourage such practices with your supplier to get #5STAR https://t.co/zKI7KKgn5O,Escalation,Escalate to Human
+TICKET_115,Hey wtf am I supposed to do when I ordered a sheet of copper and u guys sent me a backpack I didn't order instead???? 😐 https://t.co/628mPRosVs,Replacement,Escalate to Human
+TICKET_116,Still nothing? WHY DO I PAY FOR #PRIME AND HAVE TO PAY ANOTHER £8 TO GET THIS NEXT DAY?,Payment Issue,Escalate to Human
+TICKET_117,I am still waiting for the products.. don't know what is going on with your delivery. Where is my delivery? @115850 @115821,Order Tracking,Escalate to Human
+TICKET_118,Thanks it's just a pain it's delivered to Manchester hub (5 miles down road if I recall) last night and due delivery today but says delayed,Order Tracking,Auto-handle
+TICKET_119,"Still not parcel I was expecting one today as well,another letdown, I want compensation if my stuff is not here by sunday.This is a P take",Escalation,Escalate to Human
+TICKET_120,@115850 Delivery date was around 17th oct..how can you cancel it within 2 days of placing the order. That too on various orders that I have made. https://t.co/Eh9ZVzYrZJ,Escalation,Escalate to Human
+TICKET_121,Amazonで頼んだカバーが写真と全然違うのが届いたこの場合どおしたらいいんん？,Replacement,Escalate to Human
+TICKET_122,"@115830 Seriously, STOP using Hermes 2 deliver ""Prime"" orders. Going to be a full week after ordering that I receive my next day delivery.",Order Tracking,Escalate to Human
+TICKET_123,You call me service is unavailable and im unable to call the number. #Help,Escalation,Escalate to Human
+TICKET_124,Where the flip is my @115821 package,Order Tracking,Escalate to Human
+TICKET_125,"We sent a gift card to my daughters stepmother via Facebook messenger. She received it and tried to use it immediately, it was unusable",Payment Issue,Escalate to Human
+TICKET_126,@119625 unable to play video on my laptop,Other,Auto-handle
+TICKET_127,Got the call made thankyou so much! There is some problem with the helpline number please do look after it,Other,Auto-handle
+TICKET_128,I guess i did get prime but couldnt remember. Thanks 😜,Other,Auto-handle
+TICKET_129,This is the latest message .. It's not the solution but creating a worst experience https://t.co/Lasw0ab6YX,Escalation,Escalate to Human
+TICKET_130,@115830 I am an Indian travelling to the UK around Black Friday. I am interested in buying a gaming console from @115830. What is the procedure for getting a VAT refund for my purchase?,Other,Escalate to Human
+TICKET_131,The expiry is on there along with relevent proof so much hassle,Escalation,Escalate to Human
+TICKET_132,"Eh, @116928, que @4496 os la intenta meter doblada otra vez: me hacen firmar que el paquete llegó el día 29 o no me lo entregan. Ha llegado hoy, 30👌🏻 https://t.co/cEcifrtGVR",Order Tracking,Escalate to Human
+TICKET_133,"Ich denke, Amazon will einfach nicht. Trotz mehrfachen Telefonaten und schriftlichen Beweisen, wird man ignoriert und abgezockt!!!!",Escalation,Escalate to Human
+TICKET_134,"the email itself says pending, but the item page said prime shipping and gave me the date as well.",Order Tracking,Auto-handle
+TICKET_135,@115850 What's the point in festive offers if gifts cant be delivered on time ?? #unhappydiwali #whereismyorder https://t.co/7GT4SlgvgA,Escalation,Escalate to Human
+TICKET_136,Kindleアプリで本が読めん つまらんアップデートしやがって、アマゾンめ 困った,Other,Escalate to Human
+TICKET_137,I’m going around and around since Tuesday with people from overseas that can’t understand what I’m saying and I can’t understand what they are saying. Why can’t I just speak to an American,Escalation,Escalate to Human
+TICKET_138,"Hi, I'm an Amazon prime user and I've just become a student, is it possible to change my account details to the 50% Prime student offer? May be the only way I can afford to keep my prime membership upon renewal",Other,Auto-handle
+TICKET_139,"Darum geht es nicht. Ob heute Abend oder morgen. Es geht darum, dass es angeblich im Briefkasten sein soll und dann woanders ist.",Order Tracking,Escalate to Human
+TICKET_140,El Fire Stick de @116928 ha hecho un upgrade genial de mi televisión. Me ha quedado una smart TV barata con apps muy buenas 🙌😎,Other,Escalate to Human
+TICKET_141,@115850 Order ID: 171-7504339-9867535. return is complete and refund has issued. But i haven't received any amount till now.,Refund,Escalate to Human
+TICKET_142,For the 1st time getting this kind of service from @115850. https://t.co/SukQcl9zVj,Escalation,Escalate to Human
+TICKET_143,"@115821 I’m sitting here at hone the whole time and no knock on the door, no pkg but shows “delivered”. Tired of this. Not ordering anymore",Order Tracking,Escalate to Human
+TICKET_144,So what's the benefit for prime membership? https://t.co/8Xueu2csvY,Escalation,Escalate to Human
+TICKET_145,Es nacheinander bestellen ABER das scheint ja jetzt auch nicht zuklappen,Other,Escalate to Human
+TICKET_146,"Tell me why Amazon has charged me $120 in the past 18 hours for a membership I don't use, and without my permission or any notice. What the actual fuck",Payment Issue,Escalate to Human
+TICKET_147,"Ordered two #AmazonPrime items this week, orange tick and everything, both are coming at least three days after ordering. What BS is this @115830?",Order Tracking,Escalate to Human
+TICKET_148,"Exchange was not avbl fr #Op5 in Mumbai, Hyderabad, Nagpur and Visakhapatnam @115850 Then why this offer? #TimePassOffer or #KiddingOffer",Escalation,Escalate to Human
+TICKET_149,"@115850 They r saying they don't have tracking details after 1 st so, they r assuming parcel might have been lost or damaged in transit. So they r asking to request for either refund or replacement. After waiting for 11 days customer never expects such replies",Replacement,Escalate to Human
+TICKET_150,am trying to use my U.K account in Poland I am getting told I will be emailed to verify my identity no emails tried since yest,Account Login,Escalate to Human
+TICKET_151,Pretty disappointed that the usb stick we bought as a birthday present has less storage than advertised @115830,Replacement,Escalate to Human
+TICKET_152,@119625 I have been using Amazon prime video for almost two months now and never found a single movie I have ever searched. 🤤😒 https://t.co/jKaur52lQE,Other ,Auto-handle
+TICKET_153,"9 hours ago I was told it was, now it's lost or damaged.",Order Tracking,Escalate to Human
+TICKET_154,Gonna make it socialize as much as i can,Other,Escalate to Human
+TICKET_155,c'est dans ces moments là qu'on est content d'avoir acheté un jeu qui soit pas mainstream 🤔 https://t.co/bPC0YMwEuM,Other,Escalate to Human
+TICKET_156,@158543 @127852 @127271 I ordered from @115830,Order Tracking,Auto-handle
+TICKET_157,It was SUPPOSE to be delivered today. Prime. Yeah right. &amp; now it’s pushed to Monday. Might have to cancel if this keep going on.,Order Tracking,Escalate to Human
+TICKET_158,#Amazonindia ?? #Pathetic #Disgusting #thief,Escalation,Escalate to Human
+TICKET_159,It doesn't give me a specific date and it keeps changing!,Order Tracking,Escalate to Human
+TICKET_160,ok merci,Other,Escalate to Human
+TICKET_161,コンビニで受け取りたいのですがどうやって設定出来ますか？ あと、コンビニ受け取りだと支払いもそのコンビニで出来ますか？,Other,Escalate to Human
+TICKET_162,Hi @115850 the payment for a recent order did not go through earlier but now the money has been debited twice. Kindly help.,Payment Issue,Escalate to Human
+TICKET_163,"@115850 hi, I have a major query but before that a question. Does Amazon care for customers?",Escalation,Escalate to Human
+TICKET_164,"@116316, why you ALWAYS do this to me? I like you so much. don't bring me down :'( https://t.co/O2owF8c15O",Other,Escalate to Human
+TICKET_165,Me dicen que no pueden hacer nada. La gestión está en trámite y debe finalizarla la primera persona que me atendió y que no resuelve nada.,Escalation,Escalate to Human
+TICKET_166,I’m going to start giving my business to @116062 or @Walmart - at least they can deliver a package on time. @115821 u should stop ‘guaranteeing’ delivery if 6 times out of the last 8 you couldn’t make it work. Same address 10 years! Why?,Escalation,Escalate to Human
+TICKET_167,"@115821 BAM. 1-hour delivery from @117795. We have backup tennis balls, squeaky tennis balls, and this goofy loofa dog toy that is already cherished. https://t.co/j7SI2CFyJl",Other ,Auto-handle
+TICKET_168,HEY!! @115821 if I’m paying for Prime why is it taking 4 days for you to get my package to my house?!,Order Tracking,Escalate to Human
+TICKET_169,"@115821 when your order is due before 9pm and at 8.11pm they tell you, you might have it by next Wednesday! Not acceptable at all!! https://t.co/FgKv1U23XR",Order Tracking,Escalate to Human
+TICKET_170,"amazon customer service, you did a great job. I successfully lost $199 for the item i returned to the seller. reason is the seller is not signed on the received item. return shipping has tracking and issue was just closed with u r investigation.Finally i am the looser",Refund,Escalate to Human
+TICKET_171,£6 is a lot for me rn,Other,Escalate to Human
+TICKET_172,Just did that and so far it seemed to help,Other,Auto-handle
+TICKET_173,Already contacted 3-4 times in the last month. But all I got was assurance that matter is escalated &amp; new status will be provided in 1 day!,Escalation,Escalate to Human
+TICKET_174,@115851 @115850 what the hell are you doing you're supporting your seller.. It seems that you are no more interested in business https://t.co/reTAXJL8HN,Escalation,Escalate to Human
+TICKET_175,Earlier they used to give that option. Now it's not available.,Other,Auto-handle
+TICKET_176,"If I can’t access tracking, how will I know when this has arrived? Or what if it did arrive and it got taken off my porch? Amazon is usually spot on. https://t.co/Ji6Isew4tt",Order Tracking,Escalate to Human
+TICKET_177,"@115850 team facing lots of issue with Amazon Pay balance since last 2 days ,order done then get cancelled itself balance is rs 1510",Payment Issue,Escalate to Human
+TICKET_178,But it says it hasnt been dispatched yet and it was released last week...,Refund,Escalate to Human
+TICKET_179,I received refund. Thanks,Refund,Auto-handle
+TICKET_180,"i am worried, if they have delivered it anywhere else or i might not be receiving it ever??I already had paid!!Plz help @115821",Order Tracking,Escalate to Human
+TICKET_181,Yes same account but I now believe that it is my bank having the problems on their end not yours sorry for the inconvenience,Payment Issue,Auto-handle
+TICKET_182,Paid for one day shipping. And the carrier is amazon for this order.,Order Tracking,Escalate to Human
+TICKET_183,Done.,Other,Auto-handle
+TICKET_184,This is the last reply I received. I am sure this product is wrongly deliver and if not show me signature proof then? @115850 https://t.co/t4WVEuxKhN,Order Tracking,Escalate to Human
+TICKET_185,@115850 Echo Dot in India doesn't have any India specific apps? Even for traffic it's not taking India address (1/3),Order,Escalate to Human
+TICKET_186,UPS tried to deliver my package today but no one was home to sign. Next avail delivery is Mon but I need it tomorrow. Help?,Order Tracking,Escalate to Human
+TICKET_187,Nice. I guess I should now expect @115821 customer service to simply apologize and pass me off to someone else? Unbelievable. That link says I should receive a response within 12 HOURS. HOW DOES THAT HELP ME?,Escalation,Escalate to Human
+TICKET_188,Had to call regarding one of my parcels. Give Judy a raise. She did a phenomenal job and was extremely helpful. Great customer service,Other,Auto-handle
+TICKET_189,@132981 Cheating by amazon. No one is solving. Need help. Did shopping of 5 lac &amp; account blocked with no reason. No answer.,Account Login,Escalate to Human
+TICKET_190,"Could u please speak with seller ""Sold by: Cloudtail India Private Limited"" I found segate seal broken and packed with sellotape again.",Replacement,Escalate to Human
+TICKET_191,Worst experience ever with @115821 logistics!! I️ need a manager to get ahold of me ASAP. Spoken with 7 people all say different things.,Escalation,Escalate to Human
+TICKET_192,"Super disappointed in @115821 lately. Lost packages, multiple wrong charges. What's the point of being prime 🙄🤔",Escalation,Escalate to Human
+TICKET_193,@115850 very poor feedback .very disappointing services. https://t.co/VyTFtffRGJ,Escalation,Escalate to Human
+TICKET_194,.@115850 Why is the description in German? https://t.co/0siXy1om42,Other,Escalate to Human
+TICKET_195,@115850 Again Update details done. Do porper Action That Delivery Agent.Not tell like in Words,Escalation,Escalate to Human
+TICKET_196,Details shards please fix this issue I have already given you 13 days of time,Escalation,Escalate to Humane
+TICKET_197,Its AMZL US and the tracking number is TBA525656619000,Order Tracking ,Escalate to Human
+TICKET_198,"Says I need a membership, yet I’m signed in. With my membership no option to play the movies or tv",Account Login,Escalate to Human
+TICKET_199,@115830 Emailed seller twice no delivery was due 16th Nov latest I want my money back Disgusted as these were for rememberance service,Refund,Escalate to Human
+TICKET_200,素早い回答ありがとうございます。 引き続き注意します。,Other,Escalate to Human
