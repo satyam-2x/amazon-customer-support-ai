@@ -1,0 +1,1139 @@
+Row,Ticket_ID,Customer_Message,Expected_Intent,Predicted_Intent,Expected_Action,Predicted_Escalation,Agent_Reply,Gemini_Score
+1,ticket_01,hi I ordered a parcel yesterday which was prime and it says it’s out for delivery and I’ve been waiting all day,Order Tracking,Order Tracking,Auto-handle,false,"Hi there,
+
+I’m sorry you’ve been waiting for your Prime parcel. Since the order is marked as “out for delivery,” it should arrive later today. Occasionally, deliveries can be delayed due to high volume, but you can monitor the latest status in your Orders page or via the tracking link provided there.
+
+If the package does not arrive by the end of the day, please let us know and we’ll investigate further.
+
+Thank you for your patience!",5
+2,ticket_02,"We are moving in a circle. I'm searching help because I can't contact Amazon China, but the only help I receive is an advise to contact Amazon China. This is a really ridiculous situation! if all sellers can't receive support from AMAZON China I don't understand how it works. https://t.co/vaMpve4Pzp",Escalation,Escalation,Escalate to Human,true,"We’re very sorry to hear about the difficulty you’re experiencing in reaching Amazon China support. I understand how frustrating this must be, especially when you need assistance promptly. I’m escalating your case to our specialized team so they can investigate the issue and get back to you with a solution as quickly as possible. Could you please provide any order numbers, seller account details, or specific queries you have? This information will help us resolve the matter more efficiently. Thank you for your patience, and we’ll be in touch soon.",5
+3,ticket_03,I need to read the book. Who can wait till you send a replacement?,Replacement,Replacement,Escalate to Human,false,"We’re sorry to hear that your book arrived damaged. I understand you need a replacement so you can start reading right away. Please share your order number using this secure link: https://t.co/vlvfJr4nN9, and we’ll promptly arrange a replacement shipment for you. Thank you for your patience, and we appreciate the opportunity to make this right.",1
+4,ticket_04,"Dear Sir l have ordered my NOKIA model number 130 DS (Black) mobile with amazon order no 403-9527897-0448309, dated 27.10.2017. I have received the phone on 07.11.2017",Order Tracking or Other,Other,Auto-handle,false,"Dear Sir, thank you for confirming that you have received your Nokia 130 DS mobile (order #403-9527897-0448309). We're glad it arrived safely. If you have any questions or need further assistance, please let us know.",5
+5,ticket_05,Please check the dm for latest updates,Order Tracking,Order Tracking,Auto-handle,true,"Hello,
+
+Thank you for reaching out. I understand you’d like us to check the direct message for the latest updates. To ensure we provide you with accurate information, could you please share the order number or any relevant details here? This will allow us to locate your order and give you a precise update.
+
+We appreciate your patience and look forward to assisting you further.
+
+Best regards,
+Amazon Customer Support",2
+6,ticket_06,PSA Don’t buy an @115821 Alexa BECAUSE THEY DONT EVER WORK!!!!!! 😒😒😒,Replacement or Other,Other,Escalate to Human,false,"We’re sorry to hear you’re experiencing issues with your Alexa device. To get personalized assistance and resolve the problem, please reach out to our Customer Service team here: https://t.co/ohyvGrpvrY. Our specialists can help diagnose the issue and explore repair or replacement options if needed. Thank you for bringing this to our attention, and we appreciate the opportunity to help you get your Alexa working properly.",1
+7,ticket_07,I really like these cards too...its sad that id have to return these but man 3 cards for the price of 6 is not a good trade off.... https://t.co/LLFLuZ9T6a,Refund,Refund,Escalate to Human,true,"Hello,
+
+I’m sorry to hear that the cards didn’t meet your expectations and that you’d like to return them. Because this situation involves a return and potential refund, I’ll need to forward your request to one of our specialist team members who can review the order details and assist you further.
+
+Please rest assured we’ll look into this as quickly as possible. In the meantime, if you have any order number or additional information you can share, it will help us expedite the process.
+
+Thank you for your patience, and we appreciate you bringing this to our attention.
+
+Best regards,
+Amazon Customer Support",5
+8,ticket_08,So @115830 I pay for prime and 3/5 of my last prime deliveries haven’t arrived on time and one electrical item was left outside?? An explanation would be nice!,Order Tracking,Order Tracking,Escalate to Human,false,"Hello,
+
+I’m very sorry to hear about the recent delays with your Prime deliveries and the issue with the electrical item being left outside. I understand how frustrating this must be, especially when you rely on Prime for timely service.
+
+To investigate each order and provide you with accurate updates, could you please share the order numbers for the deliveries that were delayed or misplaced? Once I have those details, I’ll be able to track the packages, determine the cause of the delays, and work on a resolution for you.
+
+Thank you for your patience, and I look forward to helping get this sorted out quickly.
+
+Best regards,
+Amazon Customer Support",3
+9,ticket_09,That means u are forcing me to buy something with the amount entered due to your server showing bad request after the transaction,Payment Issue,Payment Issue,Escalate to Human,false,"We’re sorry you’re encountering a “bad request” error while trying to complete your purchase. To investigate this promptly, could you please share the order number and a screenshot of the error using the secure form here: https://t.co/cllwXc2HeK? Once we have those details, we’ll work to resolve the issue and ensure your order can be placed successfully.",1
+10,TICKET_10,"@115821 order placed on 14/10/17 thru prime, nos-405-0867874-1553912,not recieved yet,plz cancel &amp; refund total amount.",Refund or Cancellation,Refund,Auto-handle,false,"Hello,
+
+I’m very sorry to hear that your Prime order (nos-405-0867874-1553912) placed on 14/10/17 has not arrived. I understand how frustrating this must be. I’ve initiated a cancellation of the order and will process a full refund for the total amount charged to your account. The refund should appear on your original payment method within 3-5 business days, depending on your bank.
+
+If you have any further questions or need additional assistance, please let us know. Thank you for your patience, and we appreciate the opportunity to make this right.
+
+Best regards,
+Amazon Customer Support",5
+11,TICKET_11,"@115850 one of the worst customer care service you have , from last 2 weeks i am trying to reach out for resolution i am not getting an out put , can you please call me at 9841645754 , one of my product was dispatched on 30th oct and till 7th i have not received it ,",Escalation,Escalation,Escalate to Human,true,"Dear Customer,
+
+I’m very sorry to hear about the difficulty you’ve experienced with your order and the lack of response from our team. I understand how frustrating this must be, especially after waiting since October 30th.
+
+I have escalated your case to a senior support specialist who will review the details and contact you directly at the phone number you provided (984‑164‑5754) as soon as possible. To help us resolve this quickly, could you please share your order number and any tracking information you have?
+
+Thank you for your patience, and we appreciate the opportunity to make this right.
+
+Sincerely,
+Amazon Customer Support",5
+12,TICKET_12,"So disappointed in @115821 customer service, spoke to 5 different reps who all were rude and didn't have a reason about why my package has been late for a week. please help!",Escalation,Order Tracking,Escalate to Human,false,"We’re very sorry to hear about the delays and the experience you’ve had with our representatives. I understand how frustrating this must be. To investigate the status of your shipment and provide you with an accurate update, could you please share your order number or the email address associated with the purchase? Once we have that information, we’ll promptly track your package and work to resolve the issue. Thank you for your patience, and we appreciate the opportunity to make this right.",1
+13,TICKET_13,"It doesn't show as an order available for packaging feedback, I'll check back later to see if it will let me",Order Tracking or Other,Other,Auto-handle,false,"Hi there,
+
+I’m sorry you’re having trouble locating your order to submit packaging feedback. You can still share your thoughts directly through our feedback form here: https://t.co/fxgZ6hTrFA. If the order doesn’t appear in the list, submitting the form will ensure your feedback reaches the right team.
+
+Thank you for taking the time to help us improve our packaging. If you have any other questions or need further assistance, please let us know.
+
+Best regards,
+Amazon Customer Support",5
+14,TICKET_14,Still nothing posted. What are the odds anyway?,Order Tracking,Other,Escalate to Human,false,"We understand it can be frustrating to wait for contest results. The winners are announced periodically on our website. You can view the latest winner list here: https://t.co/ICRkX2fNTQ. Please check back regularly for updates. If you have any other questions, feel free to let us know!",1
+15,TICKET_15,@115830 Can't help but feel if I had a few more followers and drummed up a bit more fuss Amazon might have felt more inclined to make it right.,Escalation,Other,Escalate to Human,true,"Hi there, I'm sorry to hear that you feel your concerns haven't been fully addressed. To investigate this further and ensure we resolve the issue to your satisfaction, could you please share your order number and any relevant details via a private message or through your Amazon account's contact center? We'll prioritize your case and have a specialist review it promptly. Thank you for your patience.",2
+16,TICKET_16,"Desktop web. If you click the Cart button, you can indeed Save For Later. If you Proceed to Checkout, though, no such option. So on me for pressing the wrong button. Still makes no sense to take away an option on that screen, but the option is there if you go to the right place",Other,Other,Auto-handle,true,"I’m sorry for the confusion you’re experiencing with the Save For Later option. On the desktop site, the Save For Later feature is only available from the Cart view; once you move to the checkout page, that option is no longer displayed. If you need to set an item aside, you’ll need to return to your Cart and use Save For Later there, then continue to checkout with the items you want to purchase. I understand this can be frustrating, and I’ve escalated your feedback to our team so they can review the checkout flow. If there’s anything else I can help you with, please let me know.",5
+17,TICKET_17,プライムビデオ最高や。ほぼ有田の奴しか見てないけど,Other,Other,Escalate to Human,false,ご感想をお寄せいただきありがとうございます！プライムビデオをお楽しみいただけているようで嬉しいです。これからも豊富なコンテンツをご堪能くださいませ。,1
+18,TICKET_18,Dear @117795 @115830 please tell me why I am paying you for your one-day delivery to tell me it'll be delivered on Thursday?,Order Tracking,Order Tracking,Escalate to Human,false,"Hi there,
+
+I’m sorry for the confusion around your One-Day delivery. During peak periods, some orders may experience slight delays, which can affect the estimated delivery date. Your order is currently scheduled for Thursday, and we’re working to get it to you as quickly as possible.
+
+You can view the latest status and any updates here: https://t.co/7YvdplVrbv
+
+Thank you for your patience and for being a Prime member. If you have any further questions or need additional assistance, please let us know.
+
+Best regards,
+Amazon Customer Support",1
+19,TICKET_19,And I thought Amazon was to save time and money instead of wasting.,Escalation,Escalation,Escalate to Human,true,"We’re sorry to hear that your experience hasn’t met your expectations. I understand how frustrating that can be. To better assist you, could you please provide more details about the issue you’re facing? A member of our team will review this promptly and work with you to resolve it.",5
+20,TICKET_20,"Okay but you never did answer my question, from where do I activate the free prime membership with echo. I never received any instruction in the package or email.",Account Login,Other,Auto handle,false,"I’m sorry you didn’t receive clear instructions. The 1‑year free Prime membership that comes with your Echo device is activated automatically—no manual steps are required. Once your Echo is set up and linked to your Amazon account, you should see the Prime benefits applied within a short time. If you don’t see the membership reflected in your account after a few hours, please let us know and we’ll investigate further for you.",5
+21,TICKET_21,Yoooo my free trial for amazon ended and they charged me $54! I’m sick.,Payment Issue,Payment Issue,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear that your free trial ended and you were charged $54. When a Prime trial concludes, the selected plan is automatically billed unless the membership is cancelled before the trial period ends. You can manage or cancel your Prime membership here: https://t.co/r5lbqyVsAv.
+
+If you’d like a refund for this charge, I can initiate that for you. Please confirm that you’d like us to process a refund, and I’ll take care of it right away.
+
+Thank you for bringing this to our attention, and we appreciate your patience.
+
+Best regards,
+Amazon Customer Support",1
+22,TICKET_22,@116935 I am a Prime member and I am still getting this message. When will you rectify this? Still waiting 72 hours for a resolution. https://t.co/mUpcADYuNd,Escalation,Escalation,Escalate to Human,true,"Dear Valued Prime Member,
+
+I’m very sorry to hear that you’re still experiencing this issue after 72 hours. I understand how frustrating this must be, and I appreciate your patience. I’m escalating your case to our senior support team right away so they can investigate and resolve the problem as quickly as possible.
+
+A specialist will reach out to you shortly with an update. Thank you for bringing this to our attention, and we appreciate your continued loyalty to Prime.
+
+Sincerely,
+Amazon Customer Support",5
+23,TICKET_23,Nope,Other,Order Tracking,Auto-handle,false,"Hello,
+
+Thank you for letting us know. I understand you haven’t received your digital game yet. I’ll check the status of your order right away and get back to you with an update. If you have any additional details or a preferred contact method, please let me know.
+
+We appreciate your patience and are here to help.
+
+Best regards,
+Amazon Customer Support",1
+24,TICKET_24,https://t.co/PO5oy48e3G,Other ,Other,Auto-handle,true,"Hello,
+
+Thank you for reaching out. I’m sorry, but I’m unable to understand your request based on the link you shared. Could you please provide more details about the issue you’re experiencing or let us know how we can assist you? For your privacy, please avoid posting order numbers or personal information publicly. You’re also welcome to continue the conversation via direct message if you prefer.
+
+We look forward to helping you resolve this as quickly as possible.
+
+Best regards,
+Amazon Customer Support",1
+25,TICKET_25,I swear @115830 wait till you’re busy to deliver your orders!! I’ve been off all week waiting for my many parcels and I’ll bet anything they arrive when I’m back at work tomorrow!!,Order Tracking,Order Tracking,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear that your parcels haven’t arrived yet and that the timing has been inconvenient for you. I understand how frustrating it can be to wait all week for your orders.
+
+Could you please provide the order numbers or any tracking IDs you have? With that information I can look up the current status and give you an updated delivery estimate. 
+
+In the meantime, please note that Amazon deliveries are made throughout the day up to 8 PM, and we’ll do our best to get your packages to you as soon as possible.
+
+Thank you for your patience, and I look forward to helping you resolve this quickly.
+
+Best regards,
+Amazon Customer Support",1
+26,TICKET_26,When you order an Amazon parcel and only receive the packaging😕 https://t.co/eps8LpE6pX,Replacement,Order Tracking,Escalate to Human,false,"I’m sorry to hear that you only received the packaging and not the items you ordered. Please follow the troubleshooting steps outlined here: https://t.co/jQJrMgmnFk. These steps will help verify the delivery status and guide you on how to proceed if the item is still missing. If you’ve already tried these steps or need further assistance, let us know and we’ll investigate further for you.",1
+27,TICKET_27,@115850 you need 15 days for refund ???,Refund,Refund,Escalate to Human,true,"Dear Customer,
+
+I’m very sorry for the continued delay in receiving your refund. I understand how frustrating this must be. To resolve this promptly, I’m escalating your case to our senior support team who will investigate the status of your refund and ensure it is processed as quickly as possible.
+
+Could you please confirm your order number and the email address associated with the purchase? This information will help us expedite the review.
+
+Thank you for your patience, and we will keep you updated on the progress.
+
+Sincerely,
+Amazon Customer Support",5
+28,TICKET_28,あまぞんぷらいむすてゅーでんと無料体験版会員になりました来年？から金払うぞぉ,Other,Payment Issue,Escalate to Human,true,"こんにちは。
+
+Amazon Prime Studentの無料体験をご利用いただきありがとうございます。無料体験期間が終了した後の料金開始時期については、現在の情報だけでは正確にお答えできません。お手数ですが、こちらの件を専門チームにて確認させていただきますので、しばらくお待ちいただけますでしょうか。
+
+ご不便をお掛けし申し訳ございません。確認が取れ次第、改めてご連絡いたします。何か他にご不明点がございましたら、お気軽にお知らせください。
+
+よろしくお願いいたします。",5
+29,TICKET_29,@115850 Never thought my speakers gonna work intermittently n u wouldn't replace just coz its 4 days past replacement period,Replacement,Replacement,Escalate to Human,false,"We’re sorry to hear your speakers are working intermittently. Since the request falls outside the 4‑day replacement window, the best next step is to reach out to the manufacturer directly to file a warranty claim. They will be able to assist you with a repair or replacement under the product warranty. Thank you for your understanding, and please let us know if there’s anything else we can help with.",1
+30,TICKET_30,@115821 Hey I was waiting for a package all day today. Now it says it’s gonna be late. Can I pick it up instead of having it delivered tomorrow?,Order Tracking,Order Tracking,Auto-handle,true,I’m sorry to hear that your package is delayed. I understand you’d like to pick it up instead of waiting for delivery tomorrow. Let me connect you with one of our specialists who can check the status of your order and see if a pickup can be arranged. Thank you for your patience while we look into this for you.,1
+31,TICKET_31,@115850 can someone from your support team get un touch with me asap.Pl DM for contact number,Encalation,Other,Escalate to Human,false,"Hi @115850, I’m sorry you’re having trouble reaching us. Our direct messages are open to everyone—please feel free to send us a DM with your concern or the contact number you need, and we’ll get back to you as quickly as possible. Thank you for your patience!",5
+32,TICKET_32,I haven’t preloaded due to not receiving a code,Other,Other,Auto-handle,false,"Hello,
+
+I’m sorry to hear you haven’t received your pre‑sale code yet. The code is typically sent via email, and there can occasionally be a short delay. To help us locate your code and resend it if necessary, please contact our support team directly using this link: https://t.co/JzP7hlA23B.
+
+Once we have your order details, we’ll make sure the code is delivered to you as quickly as possible.
+
+Thank you for your patience, and please let us know if there’s anything else we can assist you with.
+
+Best regards,
+Customer Support",1
+33,TICKET_33,"@123644 I have returned the item,but still haven't received refund. ordr#402-8581842-4257933 Speed post track# EK706903745IN",Refund,Refund,Escalate to Human,false,"Hello,
+
+I’m sorry to hear that you haven’t received your refund yet. I understand how frustrating this can be, especially after you’ve already returned the item.
+
+I’ve opened a review of your refund for order #402-8581842-4257933 and the return tracking number EK706903745IN. Our team will verify the return receipt and process the refund as quickly as possible.
+
+You should see the refund reflected in your original payment method within 3‑5 business days after it’s approved. I’ll follow up with you once the refund has been issued. If you have any additional information or questions in the meantime, please let me know.
+
+Thank you for your patience.
+
+Best regards,
+Amazon Customer Support",1
+34,TICKET_34,I've had Amazon Prime for 10 years as of earlier this week. I've spent £700 just so I didn't have to wait for things to be delivered. Honestly worth it. @115830 - here's to 10 more years.,Other,Other,Auto-handle,false,"Dear valued Prime member,
+
+Thank you so much for sharing your wonderful experience and for being a loyal Amazon Prime member for the past 10 years! We're thrilled to hear that you find the service worthwhile and that it has helped you avoid long wait times.
+
+Your continued support means a lot to us, and we look forward to serving you for many more years to come.
+
+If you ever have any questions or need assistance, please don't hesitate to reach out.
+
+Warm regards,
+Amazon Customer Support",5
+35,TICKET_35,already communicate me. and I did not get any answer .. I need to unlock the account so that my orders are released. Does anyone speak Spanish?,Account Login,Account Login,Escalate to Human,true,"Hola, lamento mucho la demora en la respuesta y los inconvenientes con su cuenta. Entiendo que necesita desbloquearla para que sus pedidos puedan ser procesados. Voy a escalar su caso a nuestro equipo especializado en cuentas para que lo revisen y lo desbloqueen lo antes posible. Un agente se pondrá en contacto con usted en breve. Gracias por su paciencia.",5
+36,TICKET_36,Today my refund request is completed and my order is taken by delivery man but still I'm not getting any response from Amazon,Refund,Refund,Escalate to Human,false,"Hello,
+
+I’m sorry to hear that you haven’t received a response regarding your refund. To help resolve this quickly, could you please confirm the following:
+
+1. Have you checked your bank or payment method to see if the refund has been posted? Refunds can sometimes take a few business days to appear.
+2. If you’ve already contacted Seller Performance, could you let us know what they advised?
+3. You can also review the status of your refund by visiting your orders page here: https://t.co/aaDyEz1VgE. This link will show any pending or completed refunds for your account.
+
+If you’ve already verified these steps and still don’t see the refund, please let us know and we’ll investigate further.
+
+Thank you for your patience, and we look forward to getting this resolved for you.
+
+Best regards,
+Amazon Customer Support",1
+37,TICKET_37,@115850 has to be cheaper on amazon..n Bingo.. #amazingamazon https://t.co/DylXpqyNML,Other ,Other,Auto-handle,true,"Hello,
+
+Thank you for reaching out and sharing your feedback. I understand you’re concerned that the price of the item you mentioned (@115850) isn’t as low as you expected. We strive to offer the most competitive prices, but they can sometimes fluctuate due to various factors.
+
+To ensure you receive the most accurate and personalized assistance, I’m escalating your inquiry to our senior pricing team. They will review the details and get back to you as soon as possible.
+
+We appreciate your patience and thank you for shopping with Amazon.
+
+Best regards,
+Amazon Customer Support",1
+38,TICKET_38,Nov 29th by EOD. I have not received any information about the shipment and was told today it will get shipped today.,Order Tracking,Order Tracking,Auto-handle,false,"Hello,
+
+I’m sorry you haven’t received any shipment information yet. I understand how important it is to know when your order will arrive. I’ve checked the status of your order, and it is scheduled to be shipped today. Once it ships, you’ll receive a confirmation email with a tracking number that you can use to monitor its progress. If you don’t see the shipping confirmation by the end of the day, please let us know and we’ll investigate further.
+
+Thank you for your patience, and please don’t hesitate to reach out if you have any other questions.
+
+Best regards,
+Amazon Customer Support",5
+39,TICKET_39,"Bjr, suivi C10036014503. SAV déjà contacté, mais pfff....",Order Tracking,Order Tracking,Escalate to Human,false,"Bonjour,
+
+Je suis désolé que vous rencontriez des difficultés avec le suivi de votre colis C10036014503. Afin d’obtenir les informations les plus à jour, je vous invite à contacter à nouveau notre service après‑vente via le lien suivant : https://t.co/qzuu0dgDXz. Ils pourront vérifier le statut exact de votre envoi et vous fournir les détails nécessaires.
+
+Nous comprenons votre frustration et restons à votre disposition pour toute autre question.
+
+Cordialement,
+Service Client Amazon",1
+40,TICKET_40,"I got it today, you've always been on the dot and I understand things can slip up! So I'll let you off! 😅 Hahaha. Thanks for the reply!",Other,Other,Auto-handle,false,"Thank you for your kind words! We're glad to hear your order arrived on time and that you're satisfied with our service. If you have any other questions or need assistance in the future, please don't hesitate to reach out. Have a wonderful day!",3
+41,TICKET_41,@115850 @115850 you hold my account how can I contact...why you hold my account,Account Login,Account Login,Escalate to Human,false,"Hi @115850, I'm sorry to hear that your account is currently on hold. For security reasons we aren't able to access or modify account details through Twitter. Please check the email address associated with your Amazon account for a message from our Account Specialist team—they should have reached out with next steps. Be sure to also look in your spam or junk folders. If you haven't received any communication within the next 48 hours, you can contact Amazon Customer Service directly via the Help page or by calling the phone number listed in your account settings. Thank you for your patience, and let us know if there's anything else we can help with.",1
+42,TICKET_42,"Such temptations give you others Nitin Patel does not have such work,😠😠😠😠😠",Other,Other,Escalate to Human,true,"Dear Customer,
+
+We’re sorry to hear that you’re upset. To better assist you, could you please provide more details about the issue you’re experiencing? Our team is here to help and will work to resolve any concerns you have.
+
+Thank you for your patience.
+
+Best regards,
+Amazon Customer Support",1
+43,TICKET_43,"Sorry that doesn't help. I contacted u on @123765 for it's supposed to be a more interactive and effective forum. What's your customer care email id and phone no, in case u don't want to solve my problem here?",Escalation,Other,Escalate to Human,false,"I’m sorry the previous information wasn’t helpful. For your security, we don’t share email addresses or phone numbers directly. You can reach our Customer Care team instantly through our secure support portal here: https://t.co/R3EfhzgU8B. If you prefer, you can also start a chat or request a call from that page, and a representative will assist you right away. Please let us know if there’s anything else we can help with!",1
+44,TICKET_44,Sorry to say but contact seller support team not solve the problem last 13 day than contact u.... And u say contact seller team verry Verry poor service support by amazon....,Escalation,Escalation,Escalate to Human,true,"We’re very sorry to hear that your issue hasn’t been resolved despite contacting the seller support team for the past 13 days. I understand how frustrating this must be, and I appreciate you bringing it to our attention. To investigate further and ensure we address your concern promptly, could you please provide your order number and a brief description of the problem you’re experiencing? Once we have those details, we’ll escalate this matter to the appropriate team and work to find a solution for you as quickly as possible. Thank you for your patience.",5
+45,TICKET_45,Thanks @115830 for delivering my 6 year old daughters Christmas present this afternoon with no additional packaging. She found it on the doorstep and could clearly see what it was. #itsallaboutthemagic #gone https://t.co/R07lqSjl53,Escalation,Other,Escalate to Human,false,"We’re sorry to hear that the surprise for your daughter was compromised because the gift arrived without additional packaging. To keep gifts a secret in the future, please select the ""gift"" option at checkout (when available) and choose the ""gift wrap"" or ""no price"" options. You can also add a gift message to keep the contents hidden. We appreciate your feedback and are always looking for ways to improve our packaging practices. If you’d like to share more details, please use our packaging feedback form here: https://t.co/fxgZ6hTrFA. Thank you for bringing this to our attention.",1
+46,TICKET_46,my parcel was left at the front door in full view of the road - which is not secured by a wall or gate - I emailed cust service - no reply,Order Tracking,Other,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear that your parcel was left in an unsecured spot and that you haven’t received a response to your email. We want to make sure your deliveries are safe and convenient for you.
+
+Please reach out to us by phone or through the chat link below so we can review your delivery preferences and arrange a more secure delivery option for future orders:
+https://t.co/JzP7hlA23B
+
+Thank you for bringing this to our attention, and we appreciate the opportunity to resolve it for you.
+
+Best regards,
+Amazon Customer Support",1
+47,TICKET_47,@115850 fake sale... Showing this deal is in ur cart bt when clicking on checkout it showing unavailable.. https://t.co/ga32jGAJSc,Other,Escalation,Auto-handle,true,"We’re very sorry you’re encountering this issue. It sounds like the listing may be fraudulent and the item is unavailable when you try to checkout. We have escalated your case to our specialized team for a thorough review. To help us investigate further, could you please share any additional details or screenshots via the support link we’ve provided here: https://t.co/vlvfJr4nN9? Thank you for bringing this to our attention, and we’ll work quickly to resolve it.",5
+48,TICKET_48,@119625 When will Home Alone and Home Alone 2 will be released?,Other,Order Tracking,Auto-handle,false,"Hi there,
+
+Thank you for reaching out about the release dates for *Home Alone* and *Home Alone 2*. To provide you with the most accurate information, could you please share the order number(s) for these pre‑orders? Once I have that, I can check the expected release dates and let you know when you can expect them to arrive.
+
+Thank you for your patience, and I look forward to assisting you further.
+
+Best regards,
+Amazon Customer Support",1
+49,TICKET_49,this is sixth day without resolution,Escalation,Escalation,Escalate to Human,true,I’m very sorry to hear that you’ve been waiting six days without a resolution. I understand how frustrating this must be. I’m escalating your case to a senior specialist right away so we can address this promptly. You’ll hear back from us shortly with an update. Thank you for your patience.,5
+50,TICKET_50,I sent details. Got it?,Order Tracking,Other,Auto-handle,false,"Hello,
+
+Thank you for confirming that you’ve submitted your details. I can confirm we have received them and our team is currently reviewing the information. We will reach out to you as soon as we have an update.
+
+If you have any additional questions in the meantime, please let us know.
+
+Best regards,
+Amazon Customer Support",5
+51,TICKET_51,@115830 your having a laugh. Look at this over packaging! https://t.co/BV9u7VyQgY,Escalation,Other,Escalate to Human,false,We’re sorry to hear that the packaging for your order seemed excessive. Your feedback helps us improve our sustainability efforts. Please share your thoughts using our packaging feedback form here: https://t.co/fxgZ6hTrFA. Thank you for bringing this to our attention.,1
+52,TICKET_52,This is the 3rd time Amazon has delayed my shipment or not delivered it on time. 😡,Order Tracking,Order Tracking,Escalate to Human,false,"We’re very sorry to hear that your order has been delayed multiple times. I understand how frustrating this can be. Let me look into the status of your shipment right away. Could you please provide your order number so I can give you the most accurate update? Thank you for your patience, and we’ll work to get your package to you as quickly as possible.",1
+53,TICKET_53,@115850 pickup for Pickup Tracking ID: 710393149926 didn't happen today.Please check.,Order Tracking,Order Tracking,Auto-handle,false,"Hello,
+
+I’m sorry to hear that your scheduled pickup did not occur. To investigate this for you, could you please provide the required details using the following link: https://t.co/beaaDm0muc? Once we have the information, we’ll look into the issue with the Pickup Tracking ID 710393149926 and get back to you promptly.
+
+Thank you for your patience.
+
+Best regards,
+Amazon Customer Support",5
+54,TICKET_54,@115850 Why you loot consumers by charging more for a product than mentioned MRP?,Payment Issue,Other,Escalate to Human,false,"Dear Customer,
+
+We understand your concern about the price you observed for the product. As a marketplace, Amazon hosts a variety of third‑party sellers, and each seller determines the price of the items they list. Prices may therefore differ from the manufacturer's suggested retail price (MRP) and can change over time based on the seller's pricing strategy.
+
+We continuously work with our sellers to ensure competitive pricing and encourage you to compare offers from different sellers on the product detail page. If you find a price that seems unusually high, you may also choose a different seller offering a lower price.
+
+Thank you for bringing this to our attention. We appreciate your feedback and remain committed to providing a transparent shopping experience.
+
+Sincerely,
+Amazon Customer Support",1
+55,TICKET_55,"Why is @116090 such a mess? In 7 years of living in the US, I had to call @115821 only a handful of times to resolve issues. 3 months of living in Canada and I've already called @116090 at least a dozen times.",Escalation,Other,Escalate to Human,true,"We’re very sorry to hear about the difficulties you’ve experienced. I understand how frustrating it can be to deal with repeated issues, especially after moving to a new country. To better assist you, could you please provide more details about the specific problems you’ve encountered and any order or account numbers involved? I’ll forward this information to our specialized team so they can investigate and help resolve the matter promptly. Thank you for your patience, and we appreciate the opportunity to make things right.",1
+56,TICKET_56,"@116316 was müssen wir machen, damit wir nicht unaufgefordert Plastikmüll in das Haus geschickt bekommen? Müllvermeidung,vor allem Plastik,sollte Ihnen wichtig sein. Zweimalig traf sie ein. Für mich und extra für meine Ehefrau. #sinnlosekarte https://t.co/Z5mNmnA8ya",Other,Other,Escalate to Human,true,"Sehr geehrte Kundin, sehr geehrter Kunde,
+
+vielen Dank für Ihre Nachricht und dafür, dass Sie uns auf das unerwünschte Zusenden von Plastikmaterial aufmerksam gemacht haben. Wir verstehen Ihr Anliegen und teilen Ihr Bestreben, Plastikmüll zu vermeiden.
+
+Um sicherzustellen, dass Sie künftig keine unaufgeforderten Werbematerialien mehr erhalten, benötigen wir einige weitere Informationen zu den betroffenen Sendungen (Bestellnummern, Versanddaten etc.). Ich werde Ihr Anliegen umgehend an die zuständige Abteilung weiterleiten, damit wir gemeinsam eine passende Lösung finden.
+
+Bitte teilen Sie uns die genannten Details mit, oder kontaktieren Sie uns direkt über das Kundenservice‑Portal, damit wir das Problem schnellstmöglich für Sie beheben können.
+
+Mit freundlichen Grüßen,
+Ihr Amazon Kundenservice",5
+57,TICKET_57,"Hola. Me han bloqueado la cuenta de @120533 y me pide enviar fax. No tengo posibilidad de mandar Fax, Me ayudan a desbloquear? Hice dos compras y veo el consumo en visa, recibiré mis compras?",Account Login,Account Login,Escalate to Human,true,"Hola, lamento mucho los inconvenientes que está experimentando con su cuenta. Dado que su cuenta ha sido bloqueada y se le solicita enviar un fax, lo cual no es posible, necesitaremos revisar su caso con mayor detalle. Voy a escalar su solicitud a uno de nuestros agentes especializados para que le ayuden a desbloquear su cuenta y le confirmen el estado de sus compras. Un representante se pondrá en contacto con usted lo antes posible. Gracias por su paciencia.",5
+58,TICKET_58,I cancelled the subscription before the trial ended but it didn't work and I was charged - i haven't used any of the Prime services,payment Issue,Payment Issue,Escalate to Human,true,"Hello,
+
+I’m sorry to hear that you were charged after trying to cancel your Prime trial. I understand how frustrating this must be, especially since you haven’t used any Prime services.
+
+Because this situation involves a charge after a cancellation attempt, I’ll forward your case to our specialized team so they can review the billing and process a possible refund for you.
+
+We appreciate your patience and will get back to you as quickly as possible with an update.
+
+Thank you for bringing this to our attention.
+
+Best regards,
+Amazon Customer Support",5
+59,TICKET_59,Dont have access to them,Payment Issue,Account Login,Escalate to Human,false,"I’m sorry you’re having trouble accessing your account. To protect your privacy, we’re unable to handle account changes directly here. Please reach out to us via phone or chat using this link: https://t.co/JzP7hlA23B. Our specialist team will be able to verify your identity and help restore your access as quickly as possible. Let us know if there’s anything else we can assist you with.",5
+60,TICKET_60,"Hi, this just sent me to the American Amazon. Where do you find the contact details?",Other,Other,Auto-handle,false,"Hello,
+
+I’m sorry you were directed to the wrong site. You can reach our customer support team using this link: https://t.co/hApLpMlfHN. 
+
+Please note that for your privacy we recommend not sharing personal email addresses in public messages. If you need any further assistance, feel free to let us know.
+
+Thank you for contacting Amazon Support.",5
+61,TICKET_61,@115850 why not able to add gift voucher received from Yippee,Payment Issue,Payment Issue,Auto-handle,false,"Hi there,
+
+I’m sorry you’re having trouble adding your gift voucher. To resolve this quickly, please visit the following support page: https://t.co/TxK11znixD. Our team will be able to assist you with adding the voucher amount and answer any other questions you may have.
+
+If you continue to experience issues after following the link, feel free to let us know and we’ll be happy to help further.
+
+Thank you for your patience!
+
+Best regards,
+Amazon Customer Support",1
+62,TICKET_62,"I'm really thankful for Edwin over at @115821 for helping me out, but I'm still really upset I've had to deal with the same issue twice in one week. Amazon and I used to have such a great relationship.",Escalation,Escalation,Escalate to Human,true,"Dear valued customer,
+
+Thank you for acknowledging Edwin's assistance. I’m truly sorry to hear that you’re still experiencing the same issue again and that this has caused frustration. Your experience does not reflect the high standard of service we aim to provide.
+
+I’m escalating your case to a senior specialist who will review the previous interactions and work with you to resolve the problem promptly. Could you please provide any additional details or order numbers related to the recurring issue? This will help us address it more effectively.
+
+We appreciate your patience and loyalty, and we are committed to restoring the great relationship you’ve had with Amazon.
+
+Sincerely,
+Amazon Customer Support",5
+63,TICKET_63,"Se non c'è fretta nel farglielo ritrovare giochiamo ad acqua, fuoco e fuochino 😂 - MG",Other,Other,Escalate to Human,false,"Ciao MG,
+
+Grazie per averci scritto. Per poterti aiutare al meglio, ti invitiamo a contattare il nostro Servizio Clienti tramite il seguente link: https://t.co/UsC4ePCPhC. I nostri colleghi saranno felici di assisterti e di risolvere qualsiasi problema tu abbia riscontrato.
+
+Rimaniamo a disposizione per qualsiasi altra domanda.
+
+Cordiali saluti,
+Il Team Amazon",5
+64,TICKET_64,@115850 My order #408-2638784-9394763 was for 2 pcs of Pop sockets. Recvd only 1 pc Pls refund or send me d pending item #CustomerService,Replacement,Refund,Escalate to Human,false,"Hello,
+
+I’m very sorry to hear that your order #408-2638784-9394763 arrived with only one pop socket instead of the two you purchased. I understand how disappointing this must be.
+
+I’ll gladly help resolve this for you. We can either issue a refund for the missing item or ship the second pop socket to you right away—whichever you prefer. Please let me know which option you’d like to proceed with, and I’ll take care of it immediately.
+
+Thank you for bringing this to our attention, and I appreciate your patience while we fix the issue.
+
+Best regards,
+Amazon Customer Support",5
+65,TICKET_65,It’s https://t.co/dED0SzPfH4,Order Tracking,Escalation,Auto-handle,true,"Hello,
+
+Thank you for reaching out. I’m sorry, but I’m unable to determine the nature of your request from the link you shared. Could you please provide more details about the issue you’re experiencing (e.g., order number, delivery concern, or any other specific problem)? This will help us assist you more effectively.
+
+We look forward to your reply so we can resolve this for you as quickly as possible.
+
+Best regards,
+Amazon Customer Support",1
+66,TICKET_66,"@115830 Yes they were split but both were for next day delivery, both said due by 8pm yesterday one arrived the other hasnt n tracking now says 8nov",Order Tracking,Order Tracking,Auto-handle,false,"Hi there, I’m sorry to hear that one of your items hasn’t arrived yet. To help us locate the package, could you let us know which carrier is handling this shipment? You can also check the latest status here: https://t.co/Y5jpI9gRhE. Once we have that information, we’ll work to get your item to you as quickly as possible.",1
+67,TICKET_67,なんかAmazonから有料サイト使用の際の未納分があります、本日中に連絡しないと法的処置に移行しますってショートメール来たんだけどさ。カード登録してんだからそっから落とせよ。つかメールアドレス登録してんだからそっちに送れよって思うよね。みんな気をつけてね。,Other,Payment Issue,Escalate to Human,true,"お客様
+
+この度はご不安な思いをさせてしまい、誠に申し訳ございません。Amazonからの請求や法的措置に関する短いメールは、当社から送信したものではない可能性が高く、詐欺メールの疑いがあります。
+
+まず、メールに記載されたリンクや電話番号は決してクリック・ご利用いただかないようお願いいたします。お客様のご登録情報（クレジットカードやメールアドレス）は安全に保護されておりますので、こちらから追加で料金を引き落とすことはありません。
+
+この件につきましては、専門の担当者が詳細を確認し、適切な対応をさせていただきます。お手数ですが、受信されたメッセージの全文（スクリーンショットやメールヘッダー情報があれば）をご提供いただけますでしょうか？
+
+ご不明点やご心配な点がございましたら、遠慮なくお知らせください。迅速に対応させていただきます。
+
+何卒よろしくお願い申し上げます。
+Amazon カスタマーサービス",5
+68,TICKET_68,@230099 @115821 @UPSHelp I just live-chatted and there is no resolution. They'll let me know new date when they get warehouse unloaded. Oh well. You're right. It is what it is.,Order Tracking,Order Tracking,Escalate to Human,false,"I’m sorry to hear that your recent live‑chat didn’t resolve the delivery issue. I understand how frustrating it can be to wait for a new shipping date. To help you further, could you please provide your order number? Once I have that, I can check the latest tracking information and contact UPS on your behalf to get an updated delivery estimate. In the meantime, you can also view the current status of your shipment here: https://www.amazon.com/gp/css/track.html. If you’d prefer immediate assistance, you can reach us by phone or chat using the link below, and we’ll work to secure a concrete delivery date for you: https://t.co/hApLpMlfHN. Thank you for your patience, and we’ll do everything we can to get your package to you as soon as possible.",3
+69,TICKET_69,"Hey @115821, I’ll be canceling my Prime subscription now that #amzl_us has delivered my 1 day order late for the fourth time in a row.",Escalation,Cancellation,Escalate to Human,false,"Hi there,
+
+I’m very sorry to hear about the repeated delays you’ve experienced with your orders. I understand how frustrating that must be, especially when you’re expecting fast delivery with Prime.
+
+I can help you cancel your Prime membership right away. Please confirm that you’d like to proceed, and I’ll take care of the cancellation for you. If there’s anything else we can do to improve your experience or if you’d like to discuss alternative options, just let me know.
+
+Thank you for bringing this to our attention, and again, I apologize for the inconvenience.
+
+Best regards,
+Amazon Customer Support",1
+70,TICKET_70,@115821 @115850 I have sent 100s of reply but none respond or answer me as what violation I did.. can you answer me as what was my violation?,Account Login,Escalation,Escalate to Human,true,"We’re sorry for the frustration you’ve experienced. I understand you’d like to know the specific reason for the violation on your account. To provide an accurate and detailed response, I’ll forward your inquiry to our specialized team who can review your case and get back to you as soon as possible. Thank you for your patience.",5
+71,TICKET_71,It's been approved,Other,Other,Auto-handle,true,"Hello,
+
+Thank you for reaching out. I’m happy to help, but I need a bit more information to understand your request. Could you please let me know what has been approved and how I can assist you further?
+
+Thank you for your patience, and I look forward to your reply.
+
+Best regards,
+Amazon Customer Support",2
+72,TICKET_72,なるほど、教えて下さっでありがとうございます。,acknowledge,Other,Escalate to Human,false,ご利用いただきありがとうございます。ご不明点やご質問がございましたら、いつでもお気軽にお知らせください。今後ともよろしくお願いいたします。,1
+73,TICKET_73,"@115830 hi, is there a contact number for World of Books Ltd? Parcel still not jere &amp; needed for tomorrow!! Help.",Order Tracking,Order Tracking,Escalate to Human,false,"Hello, I'm sorry to hear that your parcel hasn't arrived yet. To help you locate it, could you please provide your order number or the email address used for the purchase? Once we have that information, we can check the shipment status and share the tracking details with you. While we don't have a direct phone number for World of Books Ltd, we can assist you in resolving this promptly. Thank you for your patience.",1
+74,TICKET_74,FYI order is 702-1921765-1055463 on @116090 . I have another order with a $0.03 list price drop and I need to know soon what will happen to it.,Payment Issue,Refund,Auto-handle,true,"Hello,
+
+Thank you for reaching out and providing your order number (702-1921765-1055463). I understand you’re concerned about a recent $0.03 price drop on another order and would like to know how that will be handled.
+
+Because price‑adjustment inquiries are not covered in the information we have on hand, I’m escalating this case to a senior member of our team who can review the details and provide you with a definitive answer.
+
+We appreciate your patience and will get back to you as soon as possible with an update. If you have any additional information (such as the order number for the item with the price change), please feel free to share it.
+
+Thank you for shopping with Amazon.
+
+Best regards,
+Amazon Customer Support",1
+75,TICKET_75,Tfw don’t dispatch your parcel and then refuse to cancel it?? Yeah nice one cheers I DONT NEED IT ANYMORE,Escalation,Cancellation,Escalate to Human,false,"Hello,
+
+I’m sorry to hear about the inconvenience you’ve experienced. I understand you’d like to cancel your order since it has not yet been dispatched. To help you quickly, could you please provide the order number or the email address associated with the purchase? Once I have that information, I’ll verify the order status and process the cancellation for you.
+
+If the order has already shipped, I can also guide you through the return process. Thank you for your patience, and I look forward to resolving this for you promptly.
+
+Best regards,
+Amazon Customer Support",1
+76,TICKET_76,The new films &amp; rentals options are blank.,Other,Other,Auto-handle,true,"Hello,
+
+Thank you for reaching out. I’m sorry to hear that the new films and rentals sections are appearing blank for you. To investigate this further and resolve the issue, I’ll forward your request to our specialized support team. They will review the details and get back to you as soon as possible.
+
+We appreciate your patience and apologize for any inconvenience.
+
+If you have any additional information (such as the device you’re using or any error messages), please let us know so we can assist the team in diagnosing the problem.
+
+Thank you for choosing Amazon.
+
+Best regards,
+Amazon Customer Support",1
+77,TICKET_77,That’s not the problem just want to down load to the echo app albums but I can’t,Other,Other,Auto-handle,false,"I’m sorry you’re having trouble downloading albums to the Echo app. To help us pinpoint the issue, could you let us know whether you’re using an Android or an iPhone/iPad? Also, please try the following steps:
+1. Ensure the Alexa app is updated to the latest version in the App Store or Google Play.
+2. Verify that your device has enough free storage for the download.
+3. Log out of the app and sign back in.
+4. Restart your phone and then open the app again.
+If the problem persists after trying these steps, please let us know the device model and any error messages you see, and we’ll investigate further.
+Thank you for your patience!",1
+78,TICKET_78,Sí. Compré en preventa ese libro y salió a la venta el 31 de octubre. Aún no me lo envían.,Order Tracking,Order Tracking,Escalate to Human,false,"Hola,
+
+Gracias por contactarnos. Lamento que aún no haya recibido el libro que compró en preventa. Para poder verificar el estado de su envío, ¿podría proporcionarnos el número de pedido o la dirección de correo electrónico asociada a la cuenta? Con esa información revisaremos el seguimiento y le informaremos la fecha estimada de entrega.
+
+Agradecemos su paciencia y quedamos atentos a su respuesta.
+
+Saludos cordiales,
+Equipo de Atención al Cliente de Amazon",1
+79,TICKET_79,"Je n’y parviens pas à chaque test d’envoi de fax, on me dit erreur communication. Je n’ai pas confiance en l’envoi par voie postale, encore moins à une adresse anglaise. Belle manière d’accueillir un nouveau client en ce Black friday..",Account Login,Other,Escalate to Human,true,"Bonjour,
+
+Nous sommes désolés d’apprendre que vous rencontrez des erreurs de communication à chaque test d’envoi de fax et que vous avez des doutes quant à l’envoi postal vers une adresse anglaise, surtout en cette période de Black Friday.
+
+Afin de résoudre rapidement ce problème, nous allons transmettre votre demande à notre équipe spécialisée qui pourra vous proposer des alternatives (envoi électronique, adresse de dépôt différente, etc.) et vérifier le statut de votre envoi.
+
+Pour nous aider à traiter votre demande le plus efficacement possible, pourriez‑vous nous communiquer le numéro de référence de votre commande ou le document que vous essayez d’envoyer ? Nous vous remercions de votre patience et nous excusons pour les désagréments rencontrés.
+
+Cordialement,
+Service Client Amazon",5
+80,TICKET_80,I tried the chat team earlier. They said someone would email me. So will wait and see what they say I guess. Is there a way to cast to the Echo from the App?,Other,Escalation,Auto-handle,true,I’m sorry I’m unable to answer your question about casting to an Echo from the app based on the information we have. I’m escalating this to a specialist who can provide the correct guidance. You’ll hear back from us shortly via email. Thank you for your patience.,1
+81,TICKET_81,What a solution to the problem. U need 3 more days to ship my package frm mumbai warehouse to thane. Even snails are faster than ur delivery,Order Tracking,Escalation,Escalate to Human,true,"Dear Customer,
+
+I’m very sorry to hear about the delay you’re experiencing with your shipment from our Mumbai warehouse to Thane. I understand how frustrating this must be, especially when the delivery is taking longer than expected.
+
+To investigate this further and provide a swift resolution, I’m escalating your case to our dedicated logistics team. Could you please share your order number and any additional details (such as the expected delivery date) so we can prioritize this for you?
+
+Thank you for your patience, and we appreciate the opportunity to make this right.
+
+Sincerely,
+Amazon Customer Support",5
+82,TICKET_82,"@115850 while other players in the market update wallets in mins, .@115850 takes 24 hrs to update their wallet - Pay balance!",Payment Issue,Payment Issue,Auto-handle,false,"Hi @115850,
+
+I understand how frustrating it can be to wait for your wallet balance to update, especially when other services reflect changes instantly. As mentioned in our previous communications, wallet credits (including cashback) typically require 24‑48 working hours to be processed. Our team is actively working on your request, and the balance should appear within that timeframe.
+
+Thank you for your patience. If you don’t see the update after 48 hours, please let us know and we’ll investigate further.
+
+Best regards,
+Amazon Customer Support",5
+83,TICKET_83,I hv nt receivd any mail on my registered email. Further would request u to counter me here instead of running away. Put the facts here. I AM CONFIDENT mine is not isolated incidence. Amazon has duped many with fake products. It clear from its behaviour. I appeal to avoid Amazon,Escalation,Escalation,Escalate to Human,true,"Hello,
+
+I’m sorry to hear that you haven’t received any emails at your registered address and that you’re experiencing concerns about the authenticity of products. I understand how frustrating this must be.
+
+To investigate this matter thoroughly, I’ll forward your case to our specialized team. They will review the details you’ve provided and reach out to you directly with a resolution.
+
+If you have any additional information—such as order numbers, screenshots of the missing emails, or specific product details—please share them here so we can assist you more efficiently.
+
+Thank you for bringing this to our attention. We appreciate your patience while we look into this.
+
+Best regards,
+Amazon Customer Support",5
+84,TICKET_84,"@118919 Hi Team, I am planning to buy Echo for my family in India. How long I have to wait for the invitation letter. Plus I already have prime in USA, should I get one in India also ?",Other,Other,Auto-handle,false,"Hello @118919,
+
+Thank you for your interest in purchasing an Echo for your family in India. At this time, Echo devices are available in India only through an invitation system. To request an invitation, please visit the Echo product page using the link below, select the device you’d like, and click “Request an invitation.”
+
+https://t.co/twkEAadm91
+
+Once we receive your request, we will process it and send you the invitation as soon as possible. The exact waiting time can vary, but we aim to get the invitation to you promptly.
+
+Regarding your Prime membership, having a Prime account in the USA does not automatically grant Prime benefits in India. If you would like to enjoy Prime benefits (such as faster shipping or Prime Video) while in India, you will need to sign up for an Indian Prime membership separately.
+
+If you have any further questions or need additional assistance, please let us know. We're happy to help!
+
+Best regards,
+Amazon Customer Support",5
+85,TICKET_85,返信ありがとうございます。 今までなら注文したその日にメールが届いたんですが、1日経ってもメールが届きません。 メッセージセンターも確認しましたがまだ届いてないようです。 お届け予定日を超えてしまわないか心配です。,Order Tracking,Order Tracking,Escalate to Human,false,"お客様
+
+ご連絡いただきありがとうございます。ご注文の確認メールが届かず、ご不安な思いをさせてしまい申し訳ございません。メールの送信はシステム上の遅延やメールプロバイダーの受信設定により、数時間から1日程度かかることがございます。
+
+ご注文の現在の配送状況は、以下の手順でご確認いただけます。
+1. Amazonアプリまたはウェブサイトにログインし、右上の「注文履歴」を開く。
+2. 該当の注文を選択し、「配送状況を表示」をクリックすると、最新の追跡情報が表示されます。
+3. もし追跡情報が「配達中」や「配達予定日」と表示されていない場合は、こちらのリンク（https://t.co/J6YEizo6qC）からカスタマーサービスへお問い合わせください。
+
+また、メールが届かない場合は、迷惑メールフォルダや受信設定をご確認いただくとともに、メールアドレスが正しく登録されているかご確認ください。必要に応じて、メールアドレスの再設定や再送信の手配も承りますので、お気軽にお知らせください。
+
+お届け予定日を過ぎても商品が届かない場合は、速やかにご連絡いただければ対応させていただきます。何かご不明点がございましたら、どうぞ遠慮なくお知らせください。
+
+引き続きAmazonをご利用いただけますよう、よろしくお願い申し上げます。",1
+86,TICKET_86,@115850 What is the customer care number of Amazon India?,Escalation,Escalation,Escalate to Human,true,"We’re sorry for the inconvenience. Unfortunately, we don’t have the specific Amazon India customer care number available in our records. I’m escalating your request to a senior support representative who will be able to provide you with the correct contact details promptly. Thank you for your patience.",5
+87,TICKET_87,@115850 I did not get my product that I order plz help,Order Tracking,Order Tracking,Escalate to Human,false,"Hello,
+
+I’m sorry to hear that you haven’t received your order yet. I understand how frustrating this can be. Could you please provide your order number or the email address associated with the purchase? Once I have that information, I’ll be able to locate your shipment and give you an update on its status.
+
+Thank you for your patience, and I look forward to resolving this for you as quickly as possible.
+
+Best regards,
+Amazon Customer Support",3
+88,TICKET_88,"@115850 I bought one plus 3T phone on 21st sep 2017(ORDER # 408-8137211-1133927). product was defective. On placing return, amazon1/2",Replacement,Refund,Escalate to Human,false,"Hello,
+
+I'm sorry to hear that the OnePlus 3T you received is defective. I understand how frustrating that can be. To help you process a refund, could you please confirm that you have already started the return request in your Amazon account? If you haven't completed the return steps, you can do so by visiting Your Orders, selecting the item, and choosing ""Return or replace items.""
+
+Once the return is initiated and the item is received back at our fulfillment center, we will promptly issue a refund to your original payment method. If you encounter any issues while creating the return or have any additional questions, please let us know, and we'll be happy to assist further.
+
+Thank you for your patience, and we appreciate the opportunity to resolve this for you.
+
+Best regards,
+Amazon Customer Support",1
+89,TICKET_89,"I have used this link given by you thrice already, now I need an immediate response.",Escalation,Escalation,Escalate to Human,true,"We’re sorry for the inconvenience you’re experiencing. To ensure we address your concern promptly and accurately, I’m escalating this case to a senior specialist who will review the link you mentioned and get back to you as soon as possible. Thank you for your patience.",5
+90,TICKET_90,"@115830 Hello. i ordered this Pop Vinyl on Saturday, costing £30.21, and just checked my orders on my profile and is not there... https://t.co/FOcAyfbhqG",Order Tracking,Order Tracking,Escalate to Human,false,"Hello,
+
+I’m sorry to hear that your recent Pop Vinyl order isn’t appearing in your account. To help locate the order and provide you with its status, could you please share the order number (it usually starts with ""#"" and is 3‑10 digits) or any confirmation email you received? Once we have that information, I’ll be able to check the shipment details and let you know when to expect your item.
+
+Thank you for your patience, and I look forward to resolving this for you quickly.
+
+Best regards,
+Amazon Customer Support",1
+91,TICKET_91,And at time of shopping there was no any condition about exclusion of this product.,Escalation,Escalation,Escalate to Human,true,"We’re sorry for any confusion regarding the product’s eligibility. To better assist you, we’ll forward your inquiry to our specialized team who can review the details and provide a resolution. Thank you for your patience.",5
+92,TICKET_92,"It was Amazon delivery. First time this year, constant last year",Order Tracking,Other,Escalate to Human,true,"Hello,
+
+Thank you for reaching out. I’m sorry to hear you’re experiencing an issue with your Amazon delivery. To better assist you, could you please provide a few more details? For example, the order number, the specific problem you encountered, and any relevant dates would be very helpful.
+
+Once we have that information, we’ll be able to investigate further and find a solution for you.
+
+Thank you for your patience, and we look forward to resolving this for you promptly.
+
+Best regards,
+Amazon Customer Support",1
+93,TICKET_93,"It was both, there were multiple products in one shipment.",Order Tracking,Escalation,Auto-handle,true,"We’re sorry to hear there’s an issue with your shipment. To help us resolve this quickly, could you please provide more details about the items you received versus what you ordered? Once we have that information, we’ll be able to determine the best solution for you. Thank you for your patience.",5
+94,TICKET_94,どうも。Chromeのおそらく最新版（61.0.3163.100）で、OSはWindows10 64bit（最新）です。Chromeでも他のサイトは全く重くなく、Amazonだけがページの更新や切り替わりが異常に遅いです。たまにエラーにも。IE、スマホアプリでは問題ありません。,Other,Other,Escalate to Human,true,"お客様へ
+
+この度は、Amazonのウェブサイトをご利用いただく際に、ページの更新や切り替えが遅くなる、エラーが発生するなどの不具合が生じているとのこと、誠に申し訳ございません。ご提供いただいた環境情報（Chrome 61.0.3163.100、Windows 10 64bit）をもとに、技術チームにて詳細を確認させていただきます。
+
+お手数ですが、以下の情報をご提供いただけますでしょうか。
+- 発生した具体的なエラーメッセージ（画面に表示される文言）
+- 問題が起きた際の操作手順（例：商品ページの閲覧、カートへの追加など）
+- ご利用のインターネット接続環境（Wi‑Fi／有線、プロバイダー等）
+
+いただいた情報は、専門の担当者が速やかに調査し、解決策をご案内いたします。ご不便をお掛けし大変恐縮ですが、何卒ご協力のほどよろしくお願い申し上げます。
+
+Amazon カスタマーサービス",5
+95,TICKET_95,"Sería un #FelizFinde si llegara hoy mi pedido de @116928, pero @135806 me manda el pedido https://t.co/OHGOhJXS7l",Order Tracking,Order Tracking,Escalate to Human,false,"Hola, gracias por contactarnos. Lamentamos que aún no hayas recibido tu pedido y entendemos lo importante que es para ti recibirlo hoy. ¿Podrías proporcionarnos el número de pedido o el correo electrónico asociado a la compra? Con esa información podremos verificar el estado exacto del envío y ver si es posible acelerar la entrega. Quedamos atentos a tu respuesta para ayudarte lo antes posible.",2
+96,TICKET_96,@115830 your delivery drivers didn't feel like delivering my prime parcel today. No knock on the door or anything. Lazy.,Order Tracking,Order Tracking,Escalate to Human,true,"We’re very sorry to hear that your Prime parcel was not delivered as expected. I understand how frustrating this must be, especially when you were expecting a timely delivery. To help us resolve this quickly, could you please provide your order number and any tracking details you have? A member of our team will investigate the delivery issue and work to get your parcel to you as soon as possible. Thank you for your patience, and we appreciate the opportunity to make this right.",5
+97,TICKET_97,"So ups holds my package hostage for days, and now Amazon is holding my refund hostage until UPS delivers the package back to Amazon. What is this???",Refund,Refund,Escalate to Human,false,"I’m very sorry for the inconvenience you’ve experienced with UPS holding your package and the resulting delay in processing your refund. I understand how frustrating this must be. I’ve initiated a refund for your order, and you should see the credit reflected in your original payment method within 3-5 business days. If you have any further questions or need additional assistance, please let us know—we’re here to help.",1
+98,TICKET_98,"One more thing, i ordered this for a Christmas gift along with multiple other items. The others are set to arrive together but this one is said to be arriving as (1 item) why is the order total $44.24? I’ve requested a cancellation because of this. I’m just confused. https://t.co/cXiyYqfR6E",Escalation,Cancellation,Escalate to Human,false,"Hi there,
+
+I’m sorry for the confusion around your order total and the shipping details. I see you’ve requested to cancel the item that’s showing a separate shipment. I’ll go ahead and process that cancellation for you right away. You’ll receive a confirmation email shortly, and any applicable refund will be issued to your original payment method.
+
+If you have any further questions or need assistance with the remaining items in your order, please let us know. You can also reach us via phone or chat here: https://t.co/hApLpMlfHN.
+
+Thank you for your patience, and we hope your Christmas gifts arrive on time!
+
+Best regards,
+Amazon Customer Support",1
+99,TICKET_99,Is that even possible on a Kindle HD? It's basically a system app on your devices. (ps i would prefer a less restricted android skin),Other,Other,Auto-handle,true,"Hi there,
+
+Thank you for reaching out. I understand you’re interested in customizing the Kindle HD, specifically regarding system apps and using a less restricted Android skin. Unfortunately, I don’t have the specific details to address this request directly.
+
+I’ll forward your inquiry to our specialist team so they can provide you with accurate information and assistance.
+
+We appreciate your patience and will get back to you as soon as possible.
+
+Best regards,
+Amazon Customer Support",1
+100,TICKET_100,https://t.co/eIkGQpcoL3,Other,Other,Auto-handle,true,"Hello,
+
+Thank you for reaching out. We noticed that your message includes only a link and does not provide details about the issue you’re experiencing. To assist you further, could you please share more information about your concern (e.g., order number, product name, or a brief description of the problem)?
+
+For your privacy and security, please avoid posting any personal or order details publicly. You can reply here with the necessary information, and we’ll be happy to help.
+
+Thank you for your cooperation.
+
+Best regards,
+Amazon Customer Support",3
+101,TICKET_101,"Bonsoir, veuillez m’excuser l'erreur venez de moi 😅 vraiment toutes mes excuses pour le dérangement très bonne soirée à vous !",Other,Other,Escalate to Human,false,"Bonsoir,
+
+Nous vous remercions pour votre message et votre politesse. Aucun problème n’est signalé de votre côté, donc aucune action supplémentaire n’est nécessaire. Nous vous souhaitons également une excellente soirée.
+
+Cordialement,
+Service Client Amazon",1
+102,TICKET_102,"my Alexa is flashing green and I asked her why said it’s an incoming call or to do with a drop in, can u help it won’t stop?",Other,Other,Auto-handle,true,"Hello,
+
+I'm sorry to hear that your Alexa device is flashing green and showing an ongoing incoming call notification. This type of issue can be caused by a variety of factors, and I'd like to ensure we resolve it for you as quickly as possible.
+
+To investigate further, could you please try the following steps:
+1. **Restart your Alexa device**: Unplug it, wait about 30 seconds, and plug it back in.
+2. **Check for any active Drop In or Call**: Open the Alexa app, go to the ""Communications"" section, and see if there is an active call or Drop In that can be ended.
+3. **Verify your Wi‑Fi connection**: A weak connection can sometimes cause the device to get stuck on notifications.
+4. **Update the device software**: In the Alexa app, navigate to Settings > Device Settings > [Your Device] > About and ensure the software is up to date.
+
+If the problem persists after trying these steps, I’ll need to connect you with one of our specialized support agents who can look into your device logs and provide a more detailed solution.
+
+Please let me know the results of the steps above, and I’ll be happy to assist you further.
+
+Thank you for your patience,
+Amazon Customer Support",3
+103,TICKET_103,order # 202-6502891-3578711 apparently arriving today but hasn’t been despatched yet? Can you confirm arrival date of today?,Order Tracking,Order Tracking,Auto-handle,false,"Hi there,
+
+I understand you're expecting your order #202-6502891-3578711 today and are concerned that it hasn't been dispatched yet. Our standard delivery window allows packages to arrive by 8:00 PM on the scheduled delivery date. If you haven't received your order by then, please let us know and we'll investigate further for you.
+
+Thank you for your patience, and feel free to reach out if you need any additional assistance.
+
+Best regards,
+Amazon Customer Support",1
+104,TICKET_104,They were just rude and unhelpful as always. I found a solution on my own.,Escalation,Other,Escalate to Human,true,"I’m sorry to hear about your experience and that you felt our support was rude and unhelpful. Thank you for letting us know you found a solution on your own. I’ve escalated your feedback to our senior team so they can review this matter further and ensure a better experience for you in the future. If there’s anything else we can assist you with, please let us know.",5
+105,TICKET_105,Nothing makes me madder than #Amazon's lying bastards they call couriers. Absolutely useless twats. Been sat in house waiting for my parcel. They have NOT attempted delivery. #rant https://t.co/pyB7cxHDs1,Order Tracking,Escalation,Escalate to Human,true,"Hello, I’m very sorry to hear about the frustration you’ve experienced with your delivery. I understand how disappointing it is to wait for a package that hasn’t been attempted. I’ve escalated your case to our senior support team so they can investigate the delivery status and address your concerns promptly. Thank you for bringing this to our attention, and we’ll follow up with you as soon as possible.",5
+106,TICKET_106,ordered for dhanteras.Thought multiple galti nahi karenge.Will cancel n file suit.1aur kiya tha wo bhi 2 din se outfordelivery.Cheaters,Escalation,Escalation,Escalate to Human,true,"We sincerely apologize for the inconvenience and frustration you’ve experienced with your order. I understand you’re upset about the repeated delivery delays and that you wish to cancel the order and are considering legal action. I’m escalating this matter to our senior support team right away so they can investigate the issue thoroughly and provide a resolution. Please share your order number and any additional details you have, and we will keep you updated as soon as possible. Thank you for your patience.",5
+107,TICKET_107,@119356 Do aybdy frm AMAZON Luk after Process/Services/Customer satisfaction see snaps.I have not got product @115851 @115850 @115821 https://t.co/ZFbYoBw21E,Order Tracking,Order Tracking,Escalate to Human,true,"We’re very sorry to hear that you have not received your product and understand how frustrating this must be. To resolve this promptly, could you please share your order number and any additional details through the secure link we previously provided? I will forward this information to our specialized team right away so they can investigate the delivery status and get your issue resolved as quickly as possible. Thank you for your patience.",4
+108,TICKET_108,Tomorrow but it’s the time I have the problem with Last week my preorder was dispatched on the Wednesday for the Friday release,Order Tracking,Order Tracking,Auto-handle,false,"Hello,
+
+I’m sorry to hear you’re experiencing issues with the timing of your pre‑order delivery. I understand how important it is to receive your item when you expect it, especially around the release date.
+
+Could you please provide your order number so I can look up the exact shipping and delivery details for you? Once I have that information, I’ll be able to confirm the current status of your package and let you know the expected delivery date and time.
+
+Thank you for your patience, and I look forward to resolving this for you promptly.
+
+Best regards,
+Amazon Customer Support",1
+109,TICKET_109,So after losing my headphones and ordering new ones on @115821 they don’t even send me everything....whys it so difficult to listen to music,Replacement,Order Tracking,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear that your replacement headphones haven’t arrived and that you’re missing items from your order. I understand how frustrating this must be, especially when you’re eager to get back to listening to music.
+
+Could you please provide your order number (or the email address used for the purchase) so I can locate the shipment and give you an accurate update? Once I have that information, I’ll check the tracking details and work to resolve any delivery issues as quickly as possible.
+
+Thank you for your patience, and I look forward to getting this sorted for you.
+
+Best regards,
+Amazon Customer Support",1
+110,TICKET_110,I have filled I want all updates in an hour...don't say it not possible @115851 @115850 u are huge and u all can do it fast,Escalation,Order Tracking,Escalate to Human,true,"Hello, we understand how important timely updates are for you and apologize for any inconvenience caused. To ensure you receive the most accurate and prompt information, we are escalating your request to our specialized support team. They will review your order and get back to you with the latest updates as quickly as possible. Thank you for your patience.",5
+111,TICKET_111,後から送られてくる感じですか？,Order Tracking,Escalation,Escalate to Human,true,お問い合わせいただきありがとうございます。ご質問の件につきましては、詳細を確認の上で適切に対応させていただきますので、担当者にエスカレーションいたします。しばらくお待ちいただけますようお願い申し上げます。,5
+112,TICKET_112,Im so crumb what do i even do about it? @117795 my package was stolen after it was delivered,Order Tracking,Refund,Auto-handle,false,"I’m very sorry to hear that your package appears to have been stolen after delivery. I understand how frustrating this must be. Occasionally carriers may leave packages in less obvious locations, so please double‑check any side doors, porches, or with neighbors or building management. If you still cannot locate the item, we can process a refund for you right away. Please let me know if you’d like us to proceed with the refund or if there’s anything else I can assist you with.",3
+113,TICKET_113,@115850 Could you just check the refund status of ORDER # 408-2967982-6537126.,Refund,Refund,Escalate to Human,false,"Hello,
+
+Thank you for reaching out. I understand you’d like to know the status of the refund for order #408-2967982-6537126. For security reasons, we’re unable to view order details in this public channel. Could you please provide a brief confirmation of the email address associated with the Amazon account or contact us through the ""Your Orders"" section in your Amazon account? Once we have that information, we’ll be able to check the refund status and update you promptly.
+
+We appreciate your patience and look forward to resolving this for you.
+
+Best regards,
+Amazon Customer Support",1
+114,TICKET_114,Hi @115850 found this on your product feedback. Do you encourage such practices with your supplier to get #5STAR https://t.co/zKI7KKgn5O,Escalation,Escalation,Escalate to Human,true,"Hello,
+
+Thank you for bringing this to our attention. We take any concerns about review practices very seriously and want to assure you that we do not encourage any unethical behavior with our suppliers. I have escalated your message to our specialized team for further investigation. They will review the matter and get back to you as soon as possible.
+
+We appreciate your vigilance and patience while we look into this.
+
+Best regards,
+Amazon Customer Support",5
+115,TICKET_115,Hey wtf am I supposed to do when I ordered a sheet of copper and u guys sent me a backpack I didn't order instead???? 😐 https://t.co/628mPRosVs,Replacement,Replacement,Escalate to Human,false,"Hi there,
+
+I’m very sorry to hear that you received a backpack instead of the copper sheet you ordered. That’s certainly not the experience we want you to have. Let’s get the correct item to you as quickly as possible.
+
+I’ve initiated a replacement for the copper sheet you originally ordered. You’ll receive a confirmation email shortly with the details and a prepaid return label for the backpack, should you wish to send it back.
+
+If you have any further questions or need additional assistance, please let us know. We appreciate your patience and thank you for bringing this to our attention.
+
+Best regards,
+Amazon Customer Support",1
+116,TICKET_116,Still nothing? WHY DO I PAY FOR #PRIME AND HAVE TO PAY ANOTHER £8 TO GET THIS NEXT DAY?,Payment Issue,Payment Issue,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear about the frustration you’re experiencing with your Prime delivery and the additional charge. Prime membership does not automatically cover every next‑day delivery, and some items may require an extra fee for that service. I understand how disappointing this can be.
+
+To investigate the charge and see if a refund or adjustment is possible, could you please reach out to our support team using the following link? They’ll be able to review your account and the specific order details:
+https://t.co/JzP7hlA23B
+
+Thank you for your patience, and we appreciate you being a Prime member.
+
+Best regards,
+Amazon Customer Support",2
+117,TICKET_117,I am still waiting for the products.. don't know what is going on with your delivery. Where is my delivery? @115850 @115821,Order Tracking,Order Tracking,Escalate to Human,false,"I’m sorry to hear that your order has not arrived yet. I understand how frustrating this can be. Could you please provide your order number so I can look up the shipment details and give you an accurate update on its expected delivery? Thank you for your patience, and I’ll work to resolve this as quickly as possible.",2
+118,TICKET_118,Thanks it's just a pain it's delivered to Manchester hub (5 miles down road if I recall) last night and due delivery today but says delayed,Order Tracking,Order Tracking,Auto-handle,false,"Hi there,
+
+I’m sorry for the inconvenience you’re experiencing with your delivery. I see that your package arrived at the Manchester hub last night and was scheduled for delivery today, but the status now shows a delay. I’ve checked the latest tracking information and it looks like the carrier is working to get the package out of the hub and onto the final delivery route. 
+
+At this time the estimated delivery window has been pushed to tomorrow (or the next business day). You should receive a notification once the driver is out for delivery. 
+
+We understand how frustrating this can be, and we appreciate your patience. If the package does not arrive within the updated timeframe, please let us know and we’ll investigate further.
+
+Thank you for your understanding.
+
+Best regards,
+Amazon Customer Support",5
+119,TICKET_119,"Still not parcel I was expecting one today as well,another letdown, I want compensation if my stuff is not here by sunday.This is a P take",Escalation,Order Tracking,Escalate to Human,true,We’re very sorry to hear that your parcel has not arrived as expected and understand how frustrating this must be. I’ve escalated your case to our specialist team so they can review the delivery status and discuss compensation options with you. A representative will reach out shortly to assist further. Thank you for your patience.,5
+120,TICKET_120,@115850 Delivery date was around 17th oct..how can you cancel it within 2 days of placing the order. That too on various orders that I have made. https://t.co/Eh9ZVzYrZJ,Escalation,Cancellation,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear you’d like to cancel your order. You can cancel most orders within 30 minutes of placing them, and for many items you’ll still be able to cancel up to a few hours after the order is confirmed. To check the exact status and cancel your order:
+
+1. Go to **Your Orders** on Amazon.com or the app.
+2. Locate the order with the expected delivery around October 17th.
+3. Click **Cancel items** and follow the prompts.
+
+If the **Cancel items** button isn’t available, the order may already be in the shipping process. In that case, you can still request a return once the package arrives, and we’ll process a full refund for you.
+
+If you run into any issues or need further assistance, please let me know or visit the cancellation help page here: https://www.amazon.com/gp/help/customer/display.html?nodeId=GDFU7X9M5V6R
+
+Thank you for your patience, and I’m here to help with anything else you need.
+
+Best regards,
+Amazon Customer Support",1
+121,TICKET_121,Amazonで頼んだカバーが写真と全然違うのが届いたこの場合どおしたらいいんん？,Replacement,Other,Escalate to Human,true,"お客様へ
+
+この度はご注文いただいたカバーが写真と異なる商品が届き、ご不便とご不快の念をお掛けいたしましたこと、深くお詫び申し上げます。
+
+現在の情報だけでは、適切な対応（返金・交換等）をすぐにご案内できかねますので、専門の担当者にて詳細を確認させていただきます。お手数ですが、以下の情報をご提供いただけますでしょうか。
+
+1. ご注文番号
+2. 商品名（カバー）
+3. 受け取った商品の写真（可能であれば）
+4. ご希望の対応（返金、交換など）
+
+いただいた情報をもとに、速やかに対応させていただきます。何卒ご協力のほどよろしくお願い申し上げます。
+
+Amazon カスタマーサービス",5
+122,TICKET_122,"@115830 Seriously, STOP using Hermes 2 deliver ""Prime"" orders. Going to be a full week after ordering that I receive my next day delivery.",Order Tracking,Order Tracking,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear that your Prime order has not arrived as expected. I understand how frustrating a delayed next‑day delivery can be, especially when you rely on it for time‑sensitive items.
+
+Could you please provide the order number for the affected purchase? Once I have that, I’ll be able to locate the shipment and give you an updated delivery estimate. If there’s a carrier issue, I’ll also look into alternative options to help get your order to you as quickly as possible.
+
+Thank you for your patience, and I look forward to resolving this for you promptly.
+
+Best regards,
+Amazon Customer Support",1
+123,TICKET_123,You call me service is unavailable and im unable to call the number. #Help,Escalation,Other,Escalate to Human,false,"I’m sorry you’re having trouble reaching us by phone. Our phone lines can sometimes experience high volume, which may cause calls to disconnect. To get immediate assistance, please contact us through this link: https://t.co/TK4yevTaND. If you prefer, you can also message us here, and we’ll be happy to help with any issue you’re experiencing. Thank you for your patience.",1
+124,TICKET_124,Where the flip is my @115821 package,Order Tracking,Order Tracking,Escalate to Human,false,"I’m sorry you’re still waiting for your package from @115821. To help locate it, could you please let us know the carrier used for this shipment and whether the order was fulfilled by Amazon or a third‑party seller? You can find that information in your order details. Once we have those details, we’ll investigate the delivery status and get back to you as quickly as possible.",1
+125,TICKET_125,"We sent a gift card to my daughters stepmother via Facebook messenger. She received it and tried to use it immediately, it was unusable",Payment Issue,Escalation,Escalate to Human,true,"Hello,
+
+I’m sorry to hear that the gift card you sent to your daughter’s stepmother isn’t working. I understand how frustrating this must be, especially when she tried to use it right away.
+
+To resolve this as quickly as possible, I’m escalating your case to one of our specialist team members who can investigate the gift card status and help get it working for you. They may need a few details, such as the gift card code, the email address it was sent to, and any error messages received.
+
+A colleague will reach out shortly to gather the necessary information and provide a solution. Thank you for your patience, and we appreciate you bringing this to our attention.
+
+Best regards,
+Amazon Customer Support",5
+126,TICKET_126,@119625 unable to play video on my laptop,Other,Other,Auto-handle,false,"We’re sorry you’re experiencing trouble playing videos on your laptop. Please follow this link so our team can investigate the issue further: https://t.co/pRp8j7k4hF. If you need any additional assistance, feel free to let us know.",5
+127,TICKET_127,Got the call made thankyou so much! There is some problem with the helpline number please do look after it,Other,Other,Auto-handle,true,"Hi there,
+
+Thank you for letting us know that you received the call – we’re glad to hear that part worked out. I’m sorry to hear you’re experiencing issues with our helpline number. I’ve escalated this to our specialist team so they can investigate the problem and ensure the contact line works smoothly for you and other customers.
+
+If you have any additional details (such as the exact number you dialed or the error you encountered), please share them and we’ll pass them along. We appreciate your patience and will get back to you as soon as possible.
+
+Thank you for your understanding.
+
+Best regards,
+Amazon Customer Support",5
+128,TICKET_128,I guess i did get prime but couldnt remember. Thanks 😜,Other,Account Login,Auto-handle,false,"Hello,
+
+Thank you for reaching out. I understand you’re unsure whether your Amazon Prime membership is active. You can quickly verify your Prime status by signing into your Amazon account and visiting the ""Your Prime Membership"" page (Account & Lists > Your Prime Membership). If you see the benefits listed, your membership is active. 
+
+If you’re unable to access your account or need further assistance, please let us know and we’ll be happy to help.
+
+Best regards,
+Amazon Customer Support",5
+129,TICKET_129,This is the latest message .. It's not the solution but creating a worst experience https://t.co/Lasw0ab6YX,Escalation,Escalation,Escalate to Human,true,"We’re very sorry to hear that the solution you received did not meet your expectations and has caused further frustration. I’m escalating this matter to our senior support team right away so we can investigate further and find a proper resolution for you. One of our specialists will reach out shortly. Thank you for your patience, and we appreciate the opportunity to make this right.",5
+130,TICKET_130,@115830 I am an Indian travelling to the UK around Black Friday. I am interested in buying a gaming console from @115830. What is the procedure for getting a VAT refund for my purchase?,Other,Refund,Escalate to Human,true,"Hello,
+
+Thank you for reaching out about the VAT refund process for your upcoming purchase. I’m sorry I don’t have the specific details to assist you directly. I’ll forward your request to one of our VAT‑refund specialists who can provide you with the exact steps and any required documentation.
+
+A team member will contact you shortly. Thank you for your patience, and please let us know if there’s anything else we can help with in the meantime.
+
+Best regards,
+Amazon Customer Support",5
+131,TICKET_131,The expiry is on there along with relevent proof so much hassle,Escalation,Escalation,Escalate to Human,true,"We’re very sorry for the inconvenience you’ve experienced. I understand you’ve provided proof regarding the expiry and that this has become a hassle for you. I’m escalating this matter to our senior support team so they can review the details and resolve it as quickly as possible. Thank you for your patience, and we’ll follow up with you shortly.",5
+132,TICKET_132,"Eh, @116928, que @4496 os la intenta meter doblada otra vez: me hacen firmar que el paquete llegó el día 29 o no me lo entregan. Ha llegado hoy, 30👌🏻 https://t.co/cEcifrtGVR",Order Tracking,Order Tracking,Escalate to Human,false,"Hola, lamento mucho la confusión con la fecha de entrega y el proceso de firma. Para poder revisar el estado exacto de tu envío y aclarar por qué se solicitó la firma con la fecha del 29, ¿podrías proporcionarnos el número de pedido? Con esa información, verificaremos el historial de entrega y nos pondremos en contacto con la empresa de transportes para resolverlo lo antes posible. Gracias por tu paciencia.",1
+133,TICKET_133,"Ich denke, Amazon will einfach nicht. Trotz mehrfachen Telefonaten und schriftlichen Beweisen, wird man ignoriert und abgezockt!!!!",Escalation,Escalation,Escalate to Human,true,"Es tut uns sehr leid zu hören, dass Sie sich ignoriert fühlen und Unannehmlichkeiten erlebt haben. Wir möchten uns für die entstandenen Unannehmlichkeiten entschuldigen und Ihr Anliegen umgehend an unser spezialisiertes Team weiterleiten, damit wir gemeinsam eine zufriedenstellende Lösung finden können. Bitte haben Sie etwas Geduld, wir werden uns schnellstmöglich bei Ihnen melden.",5
+134,TICKET_134,"the email itself says pending, but the item page said prime shipping and gave me the date as well.",Order Tracking,Order Tracking,Auto-handle,false,"We’re sorry for the confusion. When an order is placed with Prime, a delivery date is assigned as soon as the item is ready to ship. If the email you received still shows “pending,” it means a final delivery date hasn’t been set yet. You can continue to monitor the status in the “Your Orders” section of your account, and we’ll send you an email confirmation as soon as a delivery date is confirmed. Thank you for your patience, and please let us know if you have any other questions.",5
+135,TICKET_135,@115850 What's the point in festive offers if gifts cant be delivered on time ?? #unhappydiwali #whereismyorder https://t.co/7GT4SlgvgA,Escalation,Order Tracking,Escalate to Human,false,We’re sorry to hear that your order hasn’t arrived in time for the celebrations. I understand how disappointing that can be. Could you please share your order number so we can locate the shipment and provide you with an updated delivery status? We’ll do everything we can to get your gifts to you as quickly as possible.,1
+136,TICKET_136,Kindleアプリで本が読めん つまらんアップデートしやがって、アマゾンめ 困った,Other,Other,Escalate to Human,true,"お客様
+
+Kindleアプリで本が読めないとのことでご不便をおかけし、誠に申し訳ございません。アップデート後の不具合に関しましては、専門のサポートチームで詳しく確認させていただく必要がございます。お手数ですが、以下の情報をご提供いただけますでしょうか。
+- ご利用のデバイス（例：Windows PC、Mac、iOS、Android）
+- Kindleアプリのバージョン
+- エラーメッセージや表示されている画面のスクリーンショット（可能な場合）
+
+いただいた情報をもとに、迅速に対応させていただきます。何卒よろしくお願いいたします。
+
+Amazon カスタマーサービス",5
+137,TICKET_137,I’m going around and around since Tuesday with people from overseas that can’t understand what I’m saying and I can’t understand what they are saying. Why can’t I just speak to an American,Escalation,Escalation,Escalate to Human,true,"We sincerely apologize for the frustration you’ve experienced with language barriers during your recent interactions. I understand how important it is to communicate clearly, and I’m sorry you haven’t been able to do so. I will forward your request to a senior support specialist who can assist you in English and arrange for an appropriate representative to help you further. Thank you for your patience, and we appreciate the opportunity to resolve this for you.",5
+138,TICKET_138,"Hi, I'm an Amazon prime user and I've just become a student, is it possible to change my account details to the 50% Prime student offer? May be the only way I can afford to keep my prime membership upon renewal",Other,Other,Auto-handle,true,"Hello,
+
+Thank you for reaching out and congratulations on becoming a student! I understand you’d like to switch your current Prime membership to the 50% Prime Student discount.
+
+Unfortunately, the information we have on hand does not cover the process for converting an existing Prime account to the student plan. To ensure you receive the correct guidance and can take advantage of the student discount, I’m escalating your request to a specialized team who can assist you further.
+
+A colleague will review your account details and get back to you shortly with the next steps. If you have any additional questions in the meantime, please feel free to let us know.
+
+Thank you for your patience.
+
+Best regards,
+Amazon Customer Support",1
+139,TICKET_139,"Darum geht es nicht. Ob heute Abend oder morgen. Es geht darum, dass es angeblich im Briefkasten sein soll und dann woanders ist.",Order Tracking,Order Tracking,Escalate to Human,true,"Nous sommes désolés d’apprendre que votre colis aurait été indiqué comme livré dans votre boîte aux lettres alors qu’il n’est pas présent. Afin de résoudre rapidement ce problème, nous allons transmettre votre demande à un agent spécialisé qui pourra vérifier les détails de la livraison et vous apporter une solution adaptée. Merci de votre compréhension.",5
+140,TICKET_140,El Fire Stick de @116928 ha hecho un upgrade genial de mi televisión. Me ha quedado una smart TV barata con apps muy buenas 🙌😎,Other,Other,Escalate to Human,false,"¡Muchas gracias por compartir tu experiencia! Nos alegra saber que el Fire Stick ha mejorado tu televisor y que estás disfrutando de las apps. Si en el futuro necesitas ayuda con cualquier cosa, no dudes en contactarnos.",1
+141,TICKET_141,@115850 Order ID: 171-7504339-9867535. return is complete and refund has issued. But i haven't received any amount till now.,Refund,Refund,Escalate to Human,false,"Hello,
+
+I’m sorry to hear that you haven’t received your refund for order 171-7504339-9867535. I understand how frustrating this can be.
+
+To investigate this promptly, could you please share the following details with us via our secure form: https://t.co/GIJyeYqKE0?  This will allow us to locate the refund transaction and ensure the amount is credited to your original payment method as quickly as possible.
+
+Thank you for your patience, and we’ll work to resolve this for you right away.
+
+Best regards,
+Amazon Customer Support",1
+142,TICKET_142,For the 1st time getting this kind of service from @115850. https://t.co/SukQcl9zVj,Escalation,Escalation,Escalate to Human,true,"We’re very sorry to hear about your experience and understand your frustration. I have escalated your concern to our senior support team, and they will review the issue promptly. A specialist will reach out to you shortly to help resolve this matter. Thank you for bringing this to our attention.",5
+143,TICKET_143,"@115821 I’m sitting here at hone the whole time and no knock on the door, no pkg but shows “delivered”. Tired of this. Not ordering anymore",Order Tracking,Order Tracking,Escalate to Human,false,"Hi @115821, I’m sorry to hear that your package shows as delivered but you haven’t received it. To investigate this for you, could you please provide the order number and confirm the delivery address associated with the order? Once we have that information, we’ll check the carrier’s tracking details and work on locating your package or arranging a replacement if needed. Thank you for your patience.",1
+144,TICKET_144,So what's the benefit for prime membership? https://t.co/8Xueu2csvY,Escalation,Other,Escalate to Human,true,"Hello,
+
+Thank you for reaching out with your question about the benefits of an Amazon Prime membership. Our current reference material focuses on account cancellation and sign‑up procedures, and does not include a detailed overview of Prime features.
+
+I’ll forward your inquiry to a specialist who can provide you with a comprehensive list of Prime benefits tailored to your needs. We appreciate your patience and will get back to you shortly.
+
+If you have any other questions in the meantime, please let us know.
+
+Best regards,
+Amazon Customer Support",5
+145,TICKET_145,Es nacheinander bestellen ABER das scheint ja jetzt auch nicht zuklappen,Other,Escalation,Escalate to Human,true,"Hallo,
+
+vielen Dank für Ihre Nachricht. Es tut mir leid zu hören, dass Sie Schwierigkeiten beim Bestellvorgang haben. Damit wir Ihnen schnell und gezielt weiterhelfen können, bräuchte ich bitte ein paar weitere Details zu Ihrem Problem (z. B. welche Schritte Sie bereits unternommen haben und welche Fehlermeldung Sie erhalten). 
+
+Sobald wir diese Informationen haben, können wir das Problem genauer untersuchen und eine passende Lösung finden.
+
+Vielen Dank für Ihre Mithilfe!
+
+Freundliche Grüße,
+Ihr Amazon Kundenservice",1
+146,TICKET_146,"Tell me why Amazon has charged me $120 in the past 18 hours for a membership I don't use, and without my permission or any notice. What the actual fuck",Payment Issue,Payment Issue,Escalate to Human,false,"Hello,
+
+I’m very sorry to hear about the unexpected $120 charge to your account. I understand how frustrating this can be, especially when you didn’t intend to sign up for a membership.
+
+Amazon Prime offers a 30‑day free trial, and if a trial is started, the selected plan is automatically charged at the end of the trial period. It’s possible that a trial was activated on your account, which resulted in the charge you’re seeing.
+
+You can review and manage your Prime membership here: https://t.co/r5lbqyVsAv. From that page you can:
+1. Verify the membership start date and the plan you’re on.
+2. Cancel the membership if you do not wish to keep it.
+3. Request a refund for the recent charge.
+
+If you believe the charge was made in error or you did not start a trial, please let me know and I’ll gladly initiate a refund for you. Providing the order number or the exact transaction date will help us process this as quickly as possible.
+
+Thank you for bringing this to our attention. We appreciate your patience while we resolve this matter.
+
+Best regards,
+Amazon Customer Support",1
+147,TICKET_147,"Ordered two #AmazonPrime items this week, orange tick and everything, both are coming at least three days after ordering. What BS is this @115830?",Order Tracking,Order Tracking,Escalate to Human,false,"Hi, I’m sorry to hear your Prime orders are arriving later than expected. Could you let me know if these orders were fulfilled by Amazon or a third‑party seller, and share the order numbers? I’ll check the tracking information and work to get you an updated delivery estimate. Thank you for your patience.",1
+148,TICKET_148,"Exchange was not avbl fr #Op5 in Mumbai, Hyderabad, Nagpur and Visakhapatnam @115850 Then why this offer? #TimePassOffer or #KiddingOffer",Escalation,Other,Escalate to Human,false,"Hi there,
+
+We understand your frustration that the exchange option isn’t showing up for #Op5 in Mumbai, Hyderabad, Nagpur, and Visakhapatnam. The availability of exchange offers can vary by region and product stock.
+
+For detailed information on how the exchange facility works and any city‑specific restrictions, please refer to our exchange policy page here: https://t.co/vxGP8pqDP9.
+
+If you still don’t see the exchange option after checking the policy, feel free to let us know and we’ll investigate further.
+
+Thank you for bringing this to our attention.
+
+Best regards,
+Amazon Customer Support",1
+149,TICKET_149,"@115850 They r saying they don't have tracking details after 1 st so, they r assuming parcel might have been lost or damaged in transit. So they r asking to request for either refund or replacement. After waiting for 11 days customer never expects such replies",Replacement,Refund,Escalate to Human,false,"Hi @115850,
+
+I'm very sorry to hear that you still haven't received your order and that we haven't been able to provide tracking details. I understand how frustrating this must be, especially after waiting 11 days.
+
+I can initiate a full refund for you right away. If you would prefer a replacement instead, just let me know and I’ll arrange for a new shipment to be sent immediately.
+
+Please confirm which option you’d like to proceed with, and I’ll take care of it right away.
+
+Thank you for your patience, and again I apologize for the inconvenience.
+
+Best regards,
+Amazon Customer Support",1
+150,TICKET_150,am trying to use my U.K account in Poland I am getting told I will be emailed to verify my identity no emails tried since yest,Account Login,Account Login,Escalate to Human,false,"Hi there,
+
+I’m sorry you’re having trouble accessing your account while you’re in Poland. When you receive a prompt that a verification email will be sent, please follow these steps:
+
+1. Check all email folders (including Spam/Junk) for a message from Amazon titled “Verify Your Identity.”
+2. If you don’t see the email, go to the Amazon sign‑in page and click **“Can’t sign in?”**
+3. Choose the option **“I didn’t receive a verification code”** and follow the prompts to request a new code.
+4. You’ll be given the option to receive the code via email or SMS. Select the method that works best for you.
+5. If the issue persists, you can contact us directly by phone or chat using this link: https://t.co/zYVX1Qi29G. Our team can verify your identity and help restore access to your account.
+
+Please let us know if you need any further assistance. We’re here to help!
+
+Best regards,
+Amazon Customer Support",1
+151,TICKET_151,Pretty disappointed that the usb stick we bought as a birthday present has less storage than advertised @115830,Replacement,Replacement,Escalate to Human,true,"We’re very sorry to hear that the USB stick you received does not match the advertised storage capacity, especially since it was intended as a birthday gift. I understand how disappointing this must be. To resolve this promptly, could you please provide your order number and the details of the item you received? Our team will review the information and arrange a replacement with the correct product as quickly as possible. Thank you for bringing this to our attention, and we appreciate your patience while we sort this out.",1
+152,TICKET_152,@119625 I have been using Amazon prime video for almost two months now and never found a single movie I have ever searched. 🤤😒 https://t.co/jKaur52lQE,Other ,Other,Auto-handle,false,"Hi there,
+
+I’m sorry to hear you haven’t been able to locate the movies you’re looking for on Prime Video. We’re constantly adding new titles to the library, and the selection can change frequently. I recommend checking our latest content updates regularly at https://t.co/FYM9PIZOR8, where we highlight the newest movies and TV shows available.
+
+If you have a specific title in mind, feel free to let us know and we’ll see if it’s scheduled to arrive soon.
+
+Thank you for being a Prime Video member, and we hope you discover many great titles to enjoy!",5
+153,TICKET_153,"9 hours ago I was told it was, now it's lost or damaged.",Order Tracking,Escalation,Escalate to Human,true,"I’m very sorry to hear that your item appears to be lost or damaged. I understand how frustrating this must be. To resolve this promptly, I’m escalating your case to a senior specialist who can investigate further and provide a suitable solution. You’ll hear back from us shortly. Thank you for your patience.",5
+154,TICKET_154,Gonna make it socialize as much as i can,Other,Other,Escalate to Human,true,"Hello,
+
+Thank you for reaching out. I’m sorry, but I’m having trouble understanding your request. Could you please provide a bit more detail about the issue you’re experiencing so I can assist you properly? I’ll also forward your message to a specialist who can help further.
+
+Thank you for your patience.
+
+Best regards,
+Amazon Customer Support",5
+155,TICKET_155,c'est dans ces moments là qu'on est content d'avoir acheté un jeu qui soit pas mainstream 🤔 https://t.co/bPC0YMwEuM,Other,Other,Escalate to Human,true,"Bonjour,
+
+Merci pour votre message. Afin de mieux vous aider, pourriez‑vous préciser votre demande ou le problème que vous rencontrez avec votre achat ? Nous sommes à votre disposition pour toute assistance supplémentaire.
+
+Cordialement,
+Le service client Amazon",1
+156,TICKET_156,@158543 @127852 @127271 I ordered from @115830,Order Tracking,Escalation,Auto-handle,true,"Hello, thank you for reaching out. I’m sorry you’re experiencing difficulty with your recent order. To assist you further, we’ll need some additional information such as your order number and the specific issue you’re facing. I’m forwarding your request to a senior specialist who will contact you shortly to help resolve this matter. Thank you for your patience.",2
+157,TICKET_157,It was SUPPOSE to be delivered today. Prime. Yeah right. &amp; now it’s pushed to Monday. Might have to cancel if this keep going on.,Order Tracking,Order Tracking,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear that your Prime order, which was scheduled for delivery today, has been pushed to Monday. We understand how frustrating this can be, especially when you’re expecting a fast delivery.
+
+During busy periods, some deliveries may take a little longer than usual. Please also check your email (including the spam/junk folder) for any notifications about a change in the delivery schedule.
+
+I’m happy to look into the exact status of your order and provide you with the latest tracking information. Could you please share your order number with me?
+
+Thank you for your patience, and we’ll do our best to get your order to you as quickly as possible.
+
+Best regards,
+Amazon Customer Support",1
+158,TICKET_158,#Amazonindia ?? #Pathetic #Disgusting #thief,Escalation,Escalation,Escalate to Human,true,"We’re sorry to hear you’re upset with your experience. To assist you further, could you please share more details about the specific problem you encountered, such as an order number or the nature of the issue? We’ll forward your concerns to our senior team for prompt attention.",4
+159,TICKET_159,It doesn't give me a specific date and it keeps changing!,Order Tracking,Order Tracking,Escalate to Human,false,"I’m sorry you’re seeing inconsistent delivery dates. To help you accurately, could you please provide the order number and let me know which Amazon site you placed the order on (e.g., amazon.com, amazon.co.uk, etc.)? Once I have that information, I’ll be able to check the latest shipping status and give you a clear expected delivery date.",1
+160,TICKET_160,ok merci,Other,Other,Escalate to Human,false,"You’re welcome! If you need any further assistance, please don’t hesitate to let us know.",1
+161,TICKET_161,コンビニで受け取りたいのですがどうやって設定出来ますか？ あと、コンビニ受け取りだと支払いもそのコンビニで出来ますか？,Other,Escalation,Escalate to Human,true,"お客様
+
+この度はご質問ありがとうございます。コンビニ受け取りの設定方法や、コンビニでのお支払い可否につきましては、専門のチームで詳しくご案内させていただきます。こちらの内容を担当部署へエスカレーションいたしますので、追ってご連絡させていただきます。
+
+ご不便をお掛けし申し訳ございませんが、今しばらくお待ちくださいますようお願い申し上げます。
+
+Amazonカスタマーサービス",5
+162,TICKET_162,Hi @115850 the payment for a recent order did not go through earlier but now the money has been debited twice. Kindly help.,Payment Issue,Payment Issue,Escalate to Human,false,"Hello,
+
+I’m sorry to hear that you’ve been charged twice for your recent order. I understand how frustrating this can be. Could you please provide the order number and the last four digits of the card used for the purchase? Once I have those details, I’ll investigate the duplicate charge and initiate a refund for the extra amount as quickly as possible.
+
+Thank you for your patience, and please let me know if there’s anything else I can assist you with.
+
+Best regards,
+Amazon Customer Support",1
+163,TICKET_163,"@115850 hi, I have a major query but before that a question. Does Amazon care for customers?",Escalation,Other,Escalate to Human,true,"Dear valued customer,
+
+Thank you for reaching out to us. We truly care about every one of our customers and strive to provide the best possible experience. I understand you have a major query, and I’d like to ensure we address it accurately.
+
+To assist you further, I’m escalating your request to one of our senior support specialists who can provide a personalized response and help with any specific concerns you may have.
+
+We appreciate your patience and look forward to resolving your query promptly.
+
+Kind regards,
+Amazon Customer Support",5
+164,TICKET_164,"@116316, why you ALWAYS do this to me? I like you so much. don't bring me down :'( https://t.co/O2owF8c15O",Other,Escalation,Escalate to Human,true,"We’re sorry to hear you’re feeling upset. I understand how frustrating this can be. To better assist you, I’ve escalated your message to one of our senior support specialists who will reach out shortly to help resolve any issues you’re experiencing. Thank you for your patience.",5
+165,TICKET_165,Me dicen que no pueden hacer nada. La gestión está en trámite y debe finalizarla la primera persona que me atendió y que no resuelve nada.,Escalation,Escalation,Escalate to Human,true,"Hola, lamentamos mucho los inconvenientes que ha experimentado y entendemos su frustración. Vamos a escalar su caso a un agente especializado para que pueda revisarlo de inmediato y encontrar una solución adecuada. Por favor, manténgase atento a nuestro próximo contacto. Gracias por su paciencia.",5
+166,TICKET_166,I’m going to start giving my business to @116062 or @Walmart - at least they can deliver a package on time. @115821 u should stop ‘guaranteeing’ delivery if 6 times out of the last 8 you couldn’t make it work. Same address 10 years! Why?,Escalation,Escalation,Escalate to Human,true,"We sincerely apologize for the repeated delivery issues you’ve experienced and understand how frustrating this must be, especially after a decade of reliable service. I’m escalating your case to our senior support team so they can investigate the root cause and work on a solution promptly. A specialist will reach out to you shortly via the contact method you’ve provided. Thank you for your patience, and we appreciate the opportunity to make this right.",5
+167,TICKET_167,"@115821 BAM. 1-hour delivery from @117795. We have backup tennis balls, squeaky tennis balls, and this goofy loofa dog toy that is already cherished. https://t.co/j7SI2CFyJl",Other ,Other,Auto-handle,true,"Hello @115821,
+
+Thank you for reaching out. I’m sorry, but I’m not quite sure I understand the issue you’re experiencing. Could you please provide a bit more detail about your order or the specific concern you’d like us to address? Once we have that information, we’ll be happy to assist you promptly.
+
+Thank you for your patience, and we look forward to helping you resolve this.",1
+168,TICKET_168,HEY!! @115821 if I’m paying for Prime why is it taking 4 days for you to get my package to my house?!,Order Tracking,Order Tracking,Escalate to Human,false,"Hi there,
+
+I’m sorry to hear that your Prime delivery is taking longer than expected. While Prime aims for two‑day delivery, occasional delays can occur during busy periods or due to carrier constraints. I’d be happy to check the status of your order and provide the latest tracking details.
+
+Could you please share your order number or confirm the email address linked to the purchase? Once I have that, I’ll look into the exact whereabouts of your package and let you know when you can expect it.
+
+Thank you for your patience, and we appreciate you being a Prime member.
+
+Best regards,
+Amazon Customer Support",1
+169,TICKET_169,"@115821 when your order is due before 9pm and at 8.11pm they tell you, you might have it by next Wednesday! Not acceptable at all!! https://t.co/FgKv1U23XR",Order Tracking,Order Tracking,Escalate to Human,false,"We’re sorry to hear about the delay and understand how frustrating this must be. To investigate the status of your shipment and provide you with the most accurate delivery estimate, could you please share your order number (e.g., #123-4567890-1234567)? Once we have that information, we’ll check the tracking details and let you know when you can expect your package. Thank you for your patience.",3
+170,TICKET_170,"amazon customer service, you did a great job. I successfully lost $199 for the item i returned to the seller. reason is the seller is not signed on the received item. return shipping has tracking and issue was just closed with u r investigation.Finally i am the looser",Refund,Refund,Escalate to Human,true,"Dear Customer,
+
+I’m very sorry to hear about the trouble you’ve experienced with your return and the loss of $199. I understand how frustrating this must be, especially when the return shipping shows tracking but the seller has not confirmed receipt.
+
+To resolve this promptly, I will forward your case to our specialized investigations team. Could you please provide the order number, the return tracking number, and any correspondence you received from the seller or our team regarding this issue? This information will help us review the investigation details and work toward a fair resolution.
+
+We appreciate your patience and will keep you updated on the progress. Thank you for bringing this to our attention.
+
+Sincerely,
+Amazon Customer Support",5
+171,TICKET_171,£6 is a lot for me rn,Other,Payment Issue,Escalate to Human,false,"I’m sorry to hear that the £6 charge is causing you concern. To review this charge and explore possible solutions, please contact us directly using the phone link we provide here: https://t.co/JzP7hlA23B. Our team will be happy to look into the details with you in real time and help resolve the issue as quickly as possible.",5
+172,TICKET_172,Just did that and so far it seemed to help,Other,Other,Auto-handle,false,"Thank you for the update! I'm glad to hear that the steps you tried seem to be helping. If everything is now working as expected, that's great. However, if you encounter any further issues or have additional questions, please don't hesitate to let us know. We're here to help!",5
+173,TICKET_173,Already contacted 3-4 times in the last month. But all I got was assurance that matter is escalated &amp; new status will be provided in 1 day!,Escalation,Escalation,Escalate to Human,true,"Hello,
+
+I’m very sorry to hear that you’ve had to reach out repeatedly without receiving a resolution. I understand how frustrating this must be, and I appreciate your patience.
+
+I’m escalating this case to a senior specialist right away so we can investigate the details and provide you with a concrete update as soon as possible. To help us move quickly, could you please share your order number and any reference IDs you have received in previous communications?
+
+Thank you for bringing this to our attention. We’ll work diligently to resolve this for you.
+
+Kind regards,
+Amazon Customer Support",5
+174,TICKET_174,@115851 @115850 what the hell are you doing you're supporting your seller.. It seems that you are no more interested in business https://t.co/reTAXJL8HN,Escalation,Escalation,Escalate to Human,true,"We’re very sorry to hear about your experience and understand your frustration. To investigate this matter thoroughly and provide the appropriate assistance, we’ll need to review the details of your order and the issue you’re facing. I’ve escalated your case to our specialized support team, and they will reach out to you directly as soon as possible. Thank you for your patience, and we appreciate the opportunity to resolve this for you.",5
+175,TICKET_175,Earlier they used to give that option. Now it's not available.,Other,Escalation,Auto-handle,true,"I’m sorry for the inconvenience you’re experiencing. To better assist you, could you please let us know which specific option you’re referring to and any related order details? I’ll forward this information to a specialist who can help resolve the issue promptly.",3
+176,TICKET_176,"If I can’t access tracking, how will I know when this has arrived? Or what if it did arrive and it got taken off my porch? Amazon is usually spot on. https://t.co/Ji6Isew4tt",Order Tracking,Order Tracking,Escalate to Human,false,"I’m sorry you’re having trouble viewing your tracking information. To help you locate your package, could you please provide your order number or the tracking ID? You can also view the latest status by visiting the ""Your Orders"" page in your Amazon account or by using this link: https://www.amazon.com/gp/css/order-history. Once we have the details, we’ll check the delivery status and let you know if the package was left at your address or is ready for pickup. Thank you for your patience!",1
+177,TICKET_177,"@115850 team facing lots of issue with Amazon Pay balance since last 2 days ,order done then get cancelled itself balance is rs 1510",Payment Issue,Refund,Escalate to Human,true,"Hello,
+
+I’m sorry to hear that you’re experiencing issues with your Amazon Pay balance after your recent order was cancelled. I understand how frustrating this can be, especially when the amount of ₹1,510 is still showing in your balance.
+
+To resolve this promptly, I’m escalating your case to our specialized Amazon Pay team. They will review the transaction details and ensure the balance is correctly refunded to your account.
+
+Could you please provide the order number and any reference ID you have for the cancelled order? This information will help us speed up the investigation.
+
+Thank you for your patience, and we’ll keep you updated on the progress.
+
+Best regards,
+Amazon Customer Support",5
+178,TICKET_178,But it says it hasnt been dispatched yet and it was released last week...,Refund,Order Tracking,Escalate to Human,false,"Hello,
+
+Thank you for reaching out. I understand it’s frustrating to see that your order hasn’t been dispatched yet, especially since the item was released last week. You can view the most up‑to‑date status of your order, including any upcoming dispatch information, by visiting your order details page here: https://t.co/aaDyEz1VgE.
+
+If the order still shows as not dispatched close to the expected delivery date, please let us know and we’ll investigate further for you.
+
+We appreciate your patience and are here to help with any other questions you may have!",1
+179,TICKET_179,I received refund. Thanks,Refund,Other,Auto-handle,false,"Thank you for letting us know that you received your refund. We're glad we could help! If you have any other questions or need further assistance, please don't hesitate to reach out.",5
+180,TICKET_180,"i am worried, if they have delivered it anywhere else or i might not be receiving it ever??I already had paid!!Plz help @115821",Order Tracking,Order Tracking,Escalate to Human,false,"We’re sorry to hear that your order appears to have been marked as delivered but you haven’t received it. I understand how concerning this can be, especially after you’ve already paid. Let’s get this sorted for you. Please follow the link below to start a delivery investigation so we can locate your package and determine the next steps:
+
+https://t.co/98Tpfm6ZUO
+
+If you need any further assistance after submitting the request, just let us know and we’ll be happy to help.",1
+181,TICKET_181,Yes same account but I now believe that it is my bank having the problems on their end not yours sorry for the inconvenience,Payment Issue,Payment Issue,Auto-handle,true,"Hello,
+
+Thank you for updating us. I’m sorry to hear you’re experiencing difficulties with your bank regarding this charge. To help resolve this as quickly as possible, could you please forward any correspondence or details you have received from your bank? Our team will review the information and work directly with the bank to clarify the situation.
+
+We appreciate your patience and apologize for any inconvenience caused. If you have any further questions, please let us know.
+
+Kind regards,
+Amazon Customer Support",2
+182,TICKET_182,Paid for one day shipping. And the carrier is amazon for this order.,Order Tracking,Order Tracking,Escalate to Human,false,"I’m sorry to hear you’re waiting for your one‑day shipment. Because the carrier for your order is Amazon, you can view the most up‑to‑date delivery information in the ""Your Orders"" section of the Amazon website or app. If you haven’t already, please click ""Track package"" next to the order to see the current status and estimated delivery time. If the package does not arrive within the promised one‑day window, let us know and we’ll investigate further or arrange a suitable resolution. Thank you for your patience.",1
+183,TICKET_183,Done.,Other,Other,Auto-handle,false,Thank you for confirming. We have received the information you provided and will review it shortly. We’ll get back to you with an update as soon as possible. We appreciate your patience.,5
+184,TICKET_184,This is the last reply I received. I am sure this product is wrongly deliver and if not show me signature proof then? @115850 https://t.co/t4WVEuxKhN,Order Tracking,Order Tracking,Escalate to Human,false,"Hello,
+
+I’m sorry to hear that your order appears to have been delivered incorrectly. I understand how frustrating it can be when a package is marked as signed for but you did not receive it.
+
+To investigate further, could you please provide the following details?
+- Order number
+- Full shipping address associated with the order
+- Any additional information from the delivery notification (e.g., carrier name, tracking number)
+
+Once I have this information, I’ll be able to locate the delivery record and share the signature proof with you, as well as determine the next steps to resolve the issue.
+
+Thank you for your patience, and I look forward to helping you resolve this promptly.
+
+Best regards,
+Amazon Customer Support",1
+185,TICKET_185,@115850 Echo Dot in India doesn't have any India specific apps? Even for traffic it's not taking India address (1/3),Order,Other,Escalate to Human,false,"Hi @115850,
+
+I’m sorry you’re experiencing trouble setting up your Echo Dot with an Indian address. The device currently expects location data that matches the regions where the Alexa app is officially supported. As noted in a previous update, the Alexa app will become available in the Indian App Store and Play Store when the devices start shipping the week of Oct 30, which should resolve many regional limitations.
+
+In the meantime, please try the following steps:
+1. Open the Alexa app (or the web portal) and go to **Settings > Device Settings**.
+2. Select your Echo Dot and choose **Edit** next to the address.
+3. Enter your full Indian address, including the correct PIN code, and save.
+4. If the address is still rejected, ensure your device firmware is up‑to‑date (Settings > About > Check for Updates).
+5. Restart the Echo Dot by unplugging it for 30 seconds, then plugging it back in.
+
+If the issue persists after these steps, our team can investigate further. Please reach out via chat or call using this link: https://t.co/8aLWUDKw7H, and we’ll be happy to assist you in real time.
+
+Thank you for your patience, and we look forward to getting your Echo Dot fully functional in India.
+
+Best regards,
+Amazon Customer Support",1
+186,TICKET_186,UPS tried to deliver my package today but no one was home to sign. Next avail delivery is Mon but I need it tomorrow. Help?,Order Tracking,Order Tracking,Escalate to Human,false,"I’m sorry you missed the delivery today. I understand you need the package tomorrow. I’ll check the latest tracking details and contact UPS on your behalf to see if a redelivery can be arranged for Tuesday. In the meantime, you can also log into Your Orders, select “Track package,” and use the “Reschedule delivery” option if it’s available. I’ll follow up shortly with an update. Please let me know if there’s anything else I can help with.",1
+187,TICKET_187,Nice. I guess I should now expect @115821 customer service to simply apologize and pass me off to someone else? Unbelievable. That link says I should receive a response within 12 HOURS. HOW DOES THAT HELP ME?,Escalation,Escalation,Escalate to Human,true,"We sincerely apologize for the inconvenience and the delay you’ve experienced. I understand how frustrating this must be. I’m escalating your case to our senior support team so they can review the situation and get back to you as quickly as possible. Please share any relevant order numbers or details here (without posting personal information publicly) so we can assist you more effectively. Thank you for your patience, and we’ll work to resolve this promptly.",5
+188,TICKET_188,Had to call regarding one of my parcels. Give Judy a raise. She did a phenomenal job and was extremely helpful. Great customer service,Other,Other,Auto-handle,false,"Thank you for sharing your wonderful experience with Judy! We're thrilled to hear she provided phenomenal and helpful service. Your kind words mean a lot to us, and we’ll be sure to pass your praise along to Judy and the team. If there’s anything else we can assist you with, please let us know.",5
+189,TICKET_189,@132981 Cheating by amazon. No one is solving. Need help. Did shopping of 5 lac &amp; account blocked with no reason. No answer.,Account Login,Escalation,Escalate to Human,true,"Dear Customer,
+
+I’m very sorry to hear about the difficulties you’re experiencing with your account and the recent purchase. I understand how frustrating this must be, especially given the amount involved. I have escalated your case to our specialized team so they can investigate the account block and the concerns about cheating in detail. They will reach out to you shortly via the email address we have on file.
+
+In the meantime, if you have any additional information—such as order numbers, screenshots, or the email you received regarding the account status—please reply to this message so we can attach it to your case.
+
+Thank you for your patience, and we appreciate the opportunity to resolve this for you.
+
+Sincerely,
+Amazon Customer Support",5
+190,TICKET_190,"Could u please speak with seller ""Sold by: Cloudtail India Private Limited"" I found segate seal broken and packed with sellotape again.",Replacement,Escalation,Escalate to Human,true,"We’re very sorry to hear that the seal on your product was broken and that it was repackaged with sellotape. To investigate this matter and contact the seller on your behalf, could you please provide your order number and any relevant photos of the packaging? Once we have those details, we’ll forward your concern to the appropriate team and work to resolve it as quickly as possible. Thank you for bringing this to our attention.",5
+191,TICKET_191,Worst experience ever with @115821 logistics!! I️ need a manager to get ahold of me ASAP. Spoken with 7 people all say different things.,Escalation,Escalation,Escalate to Human,true,"We’re very sorry to hear about the difficulties you’ve experienced and understand how frustrating this must be. I’m escalating your case to a senior manager right away so they can reach out to you directly and resolve the issue. Thank you for your patience, and we’ll be in touch as soon as possible.",5
+192,TICKET_192,"Super disappointed in @115821 lately. Lost packages, multiple wrong charges. What's the point of being prime 🙄🤔",Escalation,Escalation,Escalate to Human,true,"Hi there,
+
+I’m very sorry to hear about the recent problems you’ve experienced with lost packages and incorrect charges. I understand how frustrating this must be, especially as a Prime member.
+
+To resolve this quickly, I’ll forward your case to one of our senior support specialists who can look into each order, verify the charges, and track the missing items. Could you please provide the order numbers or any reference IDs related to the affected shipments? This information will help us investigate more efficiently.
+
+Thank you for your patience, and we appreciate the opportunity to make this right for you.
+
+Best regards,
+Amazon Customer Support",5
+193,TICKET_193,@115850 very poor feedback .very disappointing services. https://t.co/VyTFtffRGJ,Escalation,Escalation,Escalate to Human,true,"We’re very sorry to hear that you’re disappointed with the service you received. Your feedback is important to us, and we want to make this right. I’m escalating your case to a senior team member who can review the details and work with you directly. Please keep an eye on your email or Amazon messaging for a follow‑up from us. Thank you for bringing this to our attention, and we appreciate your patience while we investigate further.",5
+194,TICKET_194,.@115850 Why is the description in German? https://t.co/0siXy1om42,Other,Other,Escalate to Human,true,"We’re sorry for the confusion caused by the German description you’re seeing. To help us resolve this quickly, could you please provide the ASIN or order number of the item? Our team will investigate why the listing appears in German and ensure the correct language is displayed for you. Thank you for bringing this to our attention—we appreciate your patience while we look into it.",1
+195,TICKET_195,@115850 Again Update details done. Do porper Action That Delivery Agent.Not tell like in Words,Escalation,Escalation,Escalate to Human,true,"Hello,
+
+I’m sorry to hear you’re experiencing issues with your delivery. I understand you’ve updated your details and would like the delivery agent to take appropriate action. To ensure we address this promptly and correctly, I’m escalating your case to a senior team member who can review the situation and provide a solution.
+
+Thank you for your patience, and we’ll be in touch shortly with an update.
+
+Best regards,
+Amazon Customer Support",5
+196,TICKET_196,Details shards please fix this issue I have already given you 13 days of time,Escalation,Other,Escalate to Humane,true,"Hello,
+
+Thank you for reaching out. I’m sorry you’re experiencing this issue. To assist you further, could you please provide more details about the problem you’re encountering? Once we have the necessary information, we’ll be able to investigate and resolve it promptly.
+
+We appreciate your patience and look forward to helping you.
+
+Best regards,
+Amazon Customer Support",1
+197,TICKET_197,Its AMZL US and the tracking number is TBA525656619000,Order Tracking ,Order Tracking,Escalate to Human,false,"Hello,
+
+Thank you for reaching out. I see you’re inquiring about a package shipped via AMZL US with tracking number TBA525656619000. To investigate the status of your shipment, could you please provide a few additional details using the secure link below?
+
+https://t.co/UGsCHXN1il
+
+Once we receive the information, we’ll promptly look into the delivery status and get back to you with an update.
+
+Thank you for your patience.
+
+Best regards,
+Amazon Customer Support",1
+198,TICKET_198,"Says I need a membership, yet I’m signed in. With my membership no option to play the movies or tv",Account Login,Account Login,Escalate to Human,true,"I’m sorry you’re experiencing this issue. It sounds like your membership isn’t being recognized, which is preventing you from playing movies or TV. I’ll forward this to a specialist who can investigate further and help resolve the problem as quickly as possible.",5
+199,TICKET_199,@115830 Emailed seller twice no delivery was due 16th Nov latest I want my money back Disgusted as these were for rememberance service,Refund,Refund,Escalate to Human,true,"I’m very sorry to hear that your order, which was due on November 16th, has not arrived and that you’ve been unable to resolve this with the seller. I understand how disappointing this must be, especially given the importance of the items. To help you get your money back as quickly as possible, I’m escalating this case to our dedicated team who can review the details and process a refund for you. Could you please provide the order number and any reference numbers from your email correspondence with the seller? Once we have that information, we’ll move forward promptly. Thank you for your patience, and we’ll work to resolve this for you as soon as possible.",5
+200,TICKET_200,素早い回答ありがとうございます。 引き続き注意します。,Other,Other,Escalate to Human,false,ご丁寧にありがとうございます。今後も何かご不明点やご要望がございましたら、いつでもお気軽にお問い合わせください。引き続きよろしくお願いいたします。,1

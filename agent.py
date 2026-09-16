@@ -23,7 +23,7 @@ class SupportAgent:
         )
 
     
-    def retrieve_past_tickets(self, user_message, n_results=3):
+    def retrieve_past_tickets(self, user_message, n_results=2):
         # Search for similar past support tickets in the vector database
         results = self.collection.query(
                 query_texts=[user_message],
@@ -60,6 +60,7 @@ class SupportAgent:
             {{
                "intent": "Choose strictly from the allowed intent list",
                "action": "Specific action (e.g., 'Issue Refund', 'Track Package', 'Escalate to Human')",
+               "escalate": "true or false (e.g., 'true' if human needed, else 'false')",
                "reason": "Brief reason explaining why this action was taken based on context",
                "reply": "Professional, empathetic response drafted for the customer"
            }}

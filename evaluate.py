@@ -1,10 +1,40 @@
 import time
-import json
+import re
 import pandas as pd
+import os
+import csv
+from google import genai
 from agent import SupportAgent
+from dotenv import load_dotenv
+
+
+load_dotenv()
+
+def get_gemini_score(customer_msg, expected_action, agent_reply):
+    prompt = f"""
+    You are an expert evaluator. 
+    Customer Message: {customer_msg}
+    Expected Action/Resolution: {expected_action}
+    AI Agent Reply: {agent_reply}
+    
+    Rate the AI Agent Reply from 1 to 5 based on how well it fulfills the Expected Action.
+    Output ONLY a single integer number between 1 and 5.
+    """
+
+    try:
+        client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
+        response = client.models.generate_content(
+            model='gemini-3.5-flash-lite',
+            contents=prompt
+        )
+        # Extract numeric score safely via regex to prevent parsing errors
+        match = re.search(r'\d+', response.text)
+        return int(match.group()) if match else 3
+    except Exception as e:
+        print(f"Gemini Score Error: {e}")
+        return 3
 
 def run_evaluation():
-    # Load the golden test dataset
     try:
         df = pd.read_csv("data/golden_set.csv")
     except FileNotFoundError:
@@ -12,53 +42,63 @@ def run_evaluation():
         return
     
     agent = SupportAgent()
-    correct_intents = 0
-    total = len(df)
-    failures = []
+    
+    # Configure batch range indices
+    START_INDEX = 1
+    END_INDEX = 100
+    
+    batch_df = df.iloc[START_INDEX:END_INDEX]
+    csv_filename = "final_evaluation_results.csv"
 
-    print(f"\nStarting evaluation on {total} records...\n")
+    print(f"\n🚀 Starting Run from Row {START_INDEX + 1} to {END_INDEX}...\n")
 
-    for index, row in df.iterrows():
+    for index, row in batch_df.iterrows():
+        ticket_id = row['ticket_id']
         customer_msg = row['customer_message']
         true_intent = row['expected_intent']
+        true_action = row['expected_action'] 
 
+        print(f"Processing Row {index + 1} (Ticket ID: {ticket_id})...")
+
+        # Get prediction from Support Agent (Groq + ChromaDB)
         try:
             response = agent.handle_ticket(customer_msg)
             predicted_intent = response.get('intent', '')
+            predicted_escalation = str(response.get('escalate', '')).strip().lower()
             predicted_reply = response.get('reply', '')
         except Exception as e:
             print(f"API Error at row {index + 1}: {e}")
-            continue
+            predicted_intent, predicted_escalation, predicted_reply = "", "", f"Error: {e}"
 
-        # Compare predicted intent with ground truth
-        if predicted_intent.strip().lower() == true_intent.strip().lower():
-            correct_intents += 1
-        else:
-            failures.append({
-                "row": index + 1,
-                "message": customer_msg,
-                "expected_intent": true_intent,
-                "predicted_intent": predicted_intent,
-                "agent_reply": predicted_reply
-            })
+        
+        # Evaluate response quality using Gemini Judge
+        judge_score = get_gemini_score(customer_msg, true_action, predicted_reply)
 
-        # Rate limit control to prevent hitting API quotas
-        time.sleep(2)
+        # Prepare structured output row data
+        row_data = {
+            "Row": index + 1,
+            "Ticket_ID": ticket_id,
+            "Customer_Message": customer_msg,
+            "Expected_Intent": true_intent,
+            "Predicted_Intent": predicted_intent,
+            "Expected_Action": true_action,
+            "Predicted_Escalation": predicted_escalation,
+            "Agent_Reply": predicted_reply,
+            "Gemini_Score": judge_score
+        }
 
+        # Fail-safe incremental append to CSV file
+        file_exists = os.path.isfile(csv_filename)
+        with open(csv_filename, "a", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=row_data.keys())
+            if not file_exists:
+                writer.writeheader() 
+            writer.writerow(row_data) 
+
+        # Rate limit protection delay between requests
+        time.sleep(15) 
     
-    accuracy = (correct_intents / total) * 100 if total > 0 else 0
-
-    # Print final evaluation summary
-    print("EVALUATION SUMMARY")
-    print(f"Total Evaluated: {total}")
-    print(f"Intent Accuracy: {accuracy:.2f}%")
-    print(f"Total Failures: {len(failures)}")
-
-    # Save failed cases for debugging and analysis
-    if failures:
-        with open("evaluation_failures.json", "w") as f:
-            json.dump(failures, f, indent=4)
-        print("Failures cases successfully saved to 'evaluation_failures.json'. Use these for your failure analysis section!")
+    print(f"\n Batch from {START_INDEX + 1} to {END_INDEX} completed and safely saved in {csv_filename}!")
 
 
 if __name__ == "__main__":
