@@ -44,7 +44,7 @@ def run_evaluation():
     agent = SupportAgent()
     
     # Configure batch range indices
-    START_INDEX = 1
+    START_INDEX = 0
     END_INDEX = 100
     
     batch_df = df.iloc[START_INDEX:END_INDEX]
